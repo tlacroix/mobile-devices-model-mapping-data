@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS `device_mapping` (
   UNIQUE KEY `device_mapping_platform_model_unique` (`platform`,`model`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 INSERT IGNORE INTO `device_mapping` (`platform`,`model`,`manufacturer_name`,`model_name`,`created_at`,`updated_at`) VALUES ("iOS", "arm64", "Apple", "iPhone Simulator", "2021-02-23 12:50:19", "2021-02-23 12:50:19");
+INSERT IGNORE INTO `device_mapping` (`platform`,`model`,`manufacturer_name`,`model_name`,`created_at`,`updated_at`) VALUES ("iOS", "AudioAccessory1,1", "Apple", "HomePod (gen 1)", "2021-02-26 16:24:56", "2021-02-26 16:24:56");
 INSERT IGNORE INTO `device_mapping` (`platform`,`model`,`manufacturer_name`,`model_name`,`created_at`,`updated_at`) VALUES ("iOS", "i386", "Apple", "iPhone Simulator", "2021-02-23 12:50:19", "2021-02-23 12:50:19");
 INSERT IGNORE INTO `device_mapping` (`platform`,`model`,`manufacturer_name`,`model_name`,`created_at`,`updated_at`) VALUES ("iOS", "iPad1,1", "Apple", "iPad", "2021-02-23 12:50:19", "2021-02-23 12:50:19");
 INSERT IGNORE INTO `device_mapping` (`platform`,`model`,`manufacturer_name`,`model_name`,`created_at`,`updated_at`) VALUES ("iOS", "iPad1,2", "Apple", "iPad 3G", "2021-02-23 12:50:19", "2021-02-23 12:50:19");

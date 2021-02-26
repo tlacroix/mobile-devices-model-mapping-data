@@ -1,5 +1,6 @@
 Platform,Model,Manufacturer,ModelName
 iOS,arm64,Apple,"iPhone Simulator"
+iOS,"AudioAccessory1,1",Apple,"HomePod (gen 1)"
 iOS,i386,Apple,"iPhone Simulator"
 iOS,"iPad1,1",Apple,iPad
 iOS,"iPad1,2",Apple,"iPad 3G"

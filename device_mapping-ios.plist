@@ -3,6 +3,8 @@
 <plist version="1.0">
 <dict>	<key>arm64</key>
 	<string>iPhone Simulator</string>
+	<key>AudioAccessory1,1</key>
+	<string>HomePod (gen 1)</string>
 	<key>i386</key>
 	<string>iPhone Simulator</string>
 	<key>iPad1,1</key>

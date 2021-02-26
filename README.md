@@ -6,7 +6,7 @@ Unofficial mapping from mobile device model/machine ID to model name, for iOS an
 - `iOS` + `iPhone9,3` = iPhone 7
 
 ## How to get the model identifier
-- iOS: This is done throught a `sysctlbyname` call, as [explained here](https://stackoverflow.com/questions/32183490/calling-sysctlbyname-with-hw-machine-flag-in-ios9 "below"):
+- iOS: This is done through a `sysctlbyname` call, as [explained here](https://stackoverflow.com/questions/32183490/calling-sysctlbyname-with-hw-machine-flag-in-ios9 "below"):
 ```
 +(NSString *) getDeviceModel {
     size_t size;
@@ -27,12 +27,12 @@ Unofficial mapping from mobile device model/machine ID to model name, for iOS an
 - PList: Apple PList file in XML format (as opposed to binary)
 - Properties: Java properties file format; the manufacturer and model names are separated by a pipe character (ie. `Samsung|Galaxy S9+`)
 
-Note: all files are UTF-8 encoded
-
-## Data Sources
-- iOS: https://gist.github.com/adamawolf/3048717
-- Android: https://storage.googleapis.com/play_public/supported_devices.html
+Note: All files are UTF-8 encoded
 
 ## Credits
-This project is an independent software and has not been authorized, sponsored, or otherwise approved by Apple or Google or any other individual or company.
+This project is independent and has not been authorized, sponsored, or otherwise approved by Apple or Google or any other individual or company.
+
+### Data Sources
+- iOS: https://gist.github.com/adamawolf/3048717
+- Android: https://storage.googleapis.com/play_public/supported_devices.html
 
