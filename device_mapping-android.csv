@@ -13971,7 +13971,10 @@ Android,Magic-s,NASCO,Magic-s
 Android,Magic_1,Attila,Magic_1
 Android,"Magnet M1",Vonino,"Magnet M1_A7"
 Android,Magnet_G10,Vonino,Magnet_G10
+Android,Magnet_G20,Vonino,Magnet_G20
 Android,Magnet_G30,Vonino,Magnet_G30_EEA
+Android,Magnet_G30_lite,Vonino,Magnet_G30_lite
+Android,Magnet_G40,Vonino,Magnet_G40
 Android,Magnet_G50,Vonino,Magnet_G50
 Android,Magnet_G50_lite,Vonino,Magnet_G50_lite
 Android,Magnet_M10,Vonino,Magnet_M10
@@ -16878,6 +16881,7 @@ Android,"Pearl K3",Hotwav,Pearl_K3_Lite
 Android,Pearl+_M5PD,Mint,_Pearl_plus
 Android,PEARL_A2,"DBM Maroc","Pearl A2"
 Android,Pearl_Neo,Mint,Pearl_Neo
+Android,Pebble_Quad,"Pebble Quad",PTPC01
 Android,Pegasus,Mobiwire,Pegasus
 Android,Pelephone-Y300-,Huawei,Y300
 Android,PENTA_73AAQ1,Penta,ETBA0692
@@ -22258,6 +22262,7 @@ Android,SWTV-20AE,SWTV,-20AE
 Android,SWTV-20AE-PRO,SWTV,-20AE-PRO
 Android,SWTV-20HK,SWTV,-20HK
 Android,SWTV-20NA,SWTV,-20N
+Android,SWTV-20NA-PRO,SWTV,-20NA-PRO
 Android,SWTV-20SA,SWTV,-20SA
 Android,SWTV-20SA-PRO,SWTV,-20SA-PRO
 Android,SX,Strawberry,SX
