@@ -13721,6 +13721,10 @@ Android,M20_4G,Teclast,M20_4G
 Android,M21,Himax,M21
 Android,M210,DEXP,M210
 Android,M2101K6G,Redmi,"Note 10 Pro"
+Android,M2101K6I,Redmi,"Note 10 Pro Max"
+Android,M2101K6P,Redmi,"Note 10 Pro"
+Android,M2101K7AG,Redmi,"Note 10"
+Android,M2102J2SC,Xiaomi,"Mi 10S"
 Android,M220,Huawei,M220
 Android,M220c,Huawei,M220
 Android,M24IS820,FBC,M24IS820
@@ -23433,6 +23437,7 @@ Android,"Thunder 347",KAZAM,"Thunder 347"
 Android,"Thunder3 45 LTE",KAZAM,"Thunder 345 LTE"
 Android,thunderc,LGE,"Optimus One"
 Android,"Thuraya X5-Touch",Thuraya,X5-Touch
+Android,Thyme,Xiaomi,"Mi 10S"
 Android,TH_55DX700C,Panasonic,TH-55DX700C
 Android,TH_65DX400C,Panasonic,TH-65DX400C
 Android,TI10RA1,ECS,TI10RA1
