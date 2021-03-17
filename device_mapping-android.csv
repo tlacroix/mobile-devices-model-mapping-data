@@ -964,6 +964,7 @@ Android,81V,"Vue Micro",Vue81V
 Android,825_T-Mobile,Doro,"Liberto 825"
 Android,8262,"TCT (Alcatel)",8262
 Android,831C,HTC,"One (M8)"
+Android,8391X,Kurio,"1T10  WIFI NEW"
 Android,850_4G,Brondi,850_4G
 Android,86TR3BF,LGE,TR3BF
 Android,86v,EACHPAI,86v
@@ -1076,6 +1077,7 @@ Android,920TPC,IView,920TPC
 Android,9288A,TCL,"NXTPAPAER 8.88"
 Android,9295G,TCL,"10 TABMAX 4G"
 Android,9295G_EEA,TCL,"10 TABMAX 4G"
+Android,9295G_RU,TCL,"10 TABMAX 4G"
 Android,9296G,TCL,"10 TABMAX"
 Android,9296G_TR,TCL,"10 TABMAX"
 Android,9296X,TCL,"10 TABMAX"
@@ -3248,6 +3250,7 @@ Android,BHT-M80-QW-A10,"Denso Wave",BHT-M80-QW-A10
 Android,BHT-M80-QWG-A10,"Denso Wave",BHT-M80-QWG-A10
 Android,BHT1600,"Denso Wave",BHT-1600
 Android,BHX-S100,"SK Broadband","B tv smart"
+Android,BID-AT200,"SK Broadband",SMART3
 Android,"Big Bang e",Hublot,"Big Bang e"
 Android,BIG1,QUBO,BIG1
 Android,"BilimBook mini",BilimBook,_mini
@@ -3378,6 +3381,8 @@ Android,Blade_C6,Hyundai,Blade_C6
 Android,Blade_C7,Hyundai,Blade_C7
 Android,BLADE_N880,ZTE,Blade
 Android,Blast,Hurricane,Blast
+Android,BLAU-TVE19H,Blaupunkt,
+Android,BLAU-TVE19I,Blaupunkt,
 Android,"BLAUPUNKT 2K Android TV",Blaupunkt,
 Android,"BLAUPUNKT 4K Android TV",Blaupunkt,
 Android,"BLAUPUNKT Android TV",Blaupunkt,"Ukraine,Czech"
@@ -4515,6 +4520,7 @@ Android,Coolpad8198T,Coolpad,8198T
 Android,Coolpad8295M,Coolpad,CP8295M
 Android,Coolpad8750,Coolpad,CP8750
 Android,Coolpad8908,Coolpad,8908
+Android,Coolpad_2041,Coolpad,"Cool 10A"
 Android,Coolpad_5218D,Coolpad,5218D
 Android,"COOLPIX S800c",Nikon,COOLPIX
 Android,"COOLPIX S810c",Nikon,"COOLPIX S810c"
@@ -4684,7 +4690,11 @@ Android,CPH2133,Oppo,A53
 Android,CPH2135,Oppo,A53s
 Android,CPH2139,Oppo,A53
 Android,CPH2159,Oppo,"Reno 5"
+Android,CPH2203,Oppo,A94
+Android,CPH2205,Oppo,"Reno5 Lite"
 Android,CPH2209,Oppo,"Reno4 F"
+Android,CPH2217,Oppo,"Reno5 F"
+Android,CPH2285,Oppo,"F19 Pro"
 Android,CPN-AL00,Huawei,"MediaPad M3 Lite"
 Android,CPN-L09,Huawei,"MediaPad M3 Lite"
 Android,CPN-W09,Huawei,"MediaPad M3 Lite"
@@ -7783,6 +7793,7 @@ Android,HaTV,Tinp,HaTV
 Android,"HAUS JS408",Haus,JS408
 Android,Hawk_from_EE,Mobiwire,"Hawk from EE"
 Android,HB_X7,HexaByte,HB_X7
+Android,HCA-6010,Homeplustv,"Homeplus_ATV HCA-6010"
 Android,HCE600,CHCNAV,HCE600
 Android,HCH03,True,HCH03
 Android,HCTT1,Sharp,HC-16TT1
@@ -7948,6 +7959,7 @@ Android,"Hisense H12",Hisense,"Infinity  H12"
 Android,"Hisense H30",Hisense,H30
 Android,"Hisense H40",Hisense,H40
 Android,"Hisense H40 Lite",Hisense,"H40 Lite"
+Android,"Hisense H50",Hisense,"Infinity H50"
 Android,"Hisense H910",Hisense,H910
 Android,"Hisense Hi 1 PRO",Hisense,U965
 Android,"Hisense Hi 2",Hisense,"Hi  2"
@@ -7972,6 +7984,8 @@ Android,"Hisense Infinity H30",Hisense,H30
 Android,"Hisense Infinity H40",Hisense,H40
 Android,"Hisense Infinity H40 Lite",Hisense,HLTE230E
 Android,"Hisense Infinity H40 Rock",Hisense,Mexico
+Android,"Hisense Infinity H50",Hisense,"Infinity H50"
+Android,"Hisense Infinity H50 Lite",Hisense,"Infinity H50 Lite"
 Android,"Hisense Infinity H50 ZOOM",Hisense,"Infinity H50 ZOOM"
 Android,"Hisense K1",Hisense,K1
 Android,"Hisense L671",Hisense,L671
@@ -8005,6 +8019,7 @@ Android,"Hisense U3 2021",Hisense,"U3 2021"
 Android,"Hisense U30",Hisense,U605
 Android,"Hisense U40",Hisense,U40
 Android,"Hisense U40 Lite",Hisense,U964
+Android,"Hisense U50",Hisense,U605
 Android,"Hisense U50 lite",Hisense,U964
 Android,"Hisense U601S",Hisense,U601S
 Android,"Hisense U605",Hisense,U605
@@ -15934,6 +15949,7 @@ Android,NT-P70,NorthTech,NT-P70
 Android,NT-S10,NorthTech,NT-S10
 Android,NTMC17,Icon,Portal_10i
 Android,NTS-AL00,Huawei,"Honor Magic"
+Android,"Nubia 8011",ZTE,"Nubia 8011"
 Android,"Nubia N11",ZTE,"Nubia N11"
 Android,"nubia Z5",ZTE,"nubia Z5"
 Android,"Nura 2",Orange,Nura2
@@ -16771,6 +16787,7 @@ Android,Panasonic_ELUGA_C,Panasonic,"ELUGA C"
 Android,Panasonic_Eluga_I3,Panasonic,"Eluga I3"
 Android,Panasonic_ELUGA_Pure,Panasonic,"ELUGA PURE"
 Android,Panasonic_P61,Panasonic,P61
+Android,Panasonic_TV,Panasonic,JX700C
 Android,Panda_7,Maxwest,Panda_7
 Android,PANDA_KIDS_7,Maxwest,PANDA_KIDS_7
 Android,PandA_m14,"TCT (Alcatel)",PandA_m14
@@ -17424,6 +17441,7 @@ Android,PMT4137_4G,Prestigio,PMT4137_4G
 Android,PMT4137_4G_EEA,Prestigio,PMT4137_4G_EEA
 Android,PMT4138_4G_EEA,Prestigio,PMT4138_4G_EEA
 Android,PMT4208_3G_EEA,Prestigio,PMT4208_3G_EEA
+Android,PMT4208_3G_E_RU,Prestigio,PMT4208_3G_E_RU
 Android,PMT4227_3G_RU,Prestigio,PMT4227_3G_RU
 Android,PMT4231_4G_D_EEA,Prestigio,PMT4231_4G_D_EEA
 Android,PMT4231_4G_D_RU,Prestigio,PMT4231_4G_D_RU
@@ -17497,6 +17515,8 @@ Android,"Point X502",Vivax,"Point X502"
 Android,Point_X2,Vivax,Point_X2
 Android,Point_X503,Vivax,Point_X503
 Android,POL-A0,Coolpad,POL-A0
+Android,POLA-TVE19K,Polaroid,
+Android,POLA-TVE19M,Polaroid,
 Android,"Polar M600",Polar,M600
 Android,Polar3,ioutdoor,Polar3
 Android,PolarH4,Winmax,PolarH4
@@ -18210,6 +18230,9 @@ Android,QT19101B,Qilive,QT19101B
 Android,QT19101HV,Qilive,QT19101HV
 Android,QT19101K,Qilive,QT19101K
 Android,QT21101,Qilive,Q1-21
+Android,"QTab Y1",QMobile,QTab_Y1
+Android,"QTab Y2",QMobile,QTab_Y2
+Android,"QTab Y3",QMobile,QTab_Y3
 Android,QTAB10,QBell,QTAB10
 Android,QTAB1010X,Vankyo,QTAB1010X
 Android,QTAIR7,"Verizon Wireless","Ellipsis 10"
@@ -21691,6 +21714,7 @@ Android,SNE-LX2,Huawei,"Mate 20 lite"
 Android,SNE-LX3,Huawei,"Mate 20 lite"
 Android,SNOOK-X10,Ctroniq,SNOOK-X10
 Android,SNOOK-X75,Ctroniq,SNOOK-X75
+Android,SNOOK-X80,Ctroniq,SNOOK-X80
 Android,SO-01B,"Sony Ericsson","Xperia X10"
 Android,SO-01C,"Sony Ericsson","Xperia Arc"
 Android,SO-01D,"Sony Ericsson","Xperia PLAY"
@@ -23048,6 +23072,7 @@ Android,Team73G,"Gol Mobile",Team73G
 Android,TEAM_7_3G,"Gol Mobile",TEAM_7_3G
 Android,"Tech A1",Wiseasy,Tech-A1
 Android,"Tech Pad i700",Techpad,i700
+Android,TECH-TVE19J,Tesco,Technika
 Android,"TechPad M5",Techpad,M5
 Android,"Techpad X5",Techpad,X5
 Android,TechPad_1032s,Techpad,_1032s
@@ -23108,6 +23133,7 @@ Android,"TECNO CF7",Tecno,"CAMON 11"
 Android,"TECNO CF7k",Tecno,"CAMON 11"
 Android,"TECNO CF7S",Tecno,"CAMON 11"
 Android,"TECNO CF8",Tecno,"CAMON 11 Pro"
+Android,"TECNO CG6j",Tecno,"CAMON 17"
 Android,"TECNO CX Air",Tecno,"Camon CX Air"
 Android,"TECNO DP10A",Tecno,Droipad10
 Android,"TECNO F1",Tecno,F1
@@ -23717,6 +23743,7 @@ Android,Trio-Stealth-G4-7.85,Trio,Stealth-G4-7.85
 Android,TrioStealth-7,"MachSpeed (Apollo Brands)",TrioStealth-7
 Android,TRIP,Mobicell,TRIP
 Android,TRI_POWER,Trifone,TRI_POWER
+Android,trogdor,Google,"Qualcomm SC7180 Chromebook"
 Android,"Trooper2 45",KAZAM,"Trooper2 45"
 Android,Trooper_X35,KAZAM,"TROOPER X3.5"
 Android,Trooper_X40,KAZAM,"TROOPER X4.0"
@@ -23812,6 +23839,7 @@ Android,"Twist 2 Fit",Positivo,"Twist 2 Fit"
 Android,"Twist 2 Go",Positivo,"Twist 2 Go"
 Android,"Twist 2 Pro",Positivo,"Twist 2 Pro"
 Android,"Twist 3",Positivo,"Twist 2 Pro"
+Android,"Twist 4",Positivo,"Twist 4"
 Android,"Twist 4 Fit",Positivo,"Twist 4 Fit"
 Android,"Twist 4 Pro",Positivo,"Twist 4 Pro"
 Android,"Twist Max",Positivo,"Twist Max"
@@ -24277,6 +24305,7 @@ Android,V2037,Vivo,V2037
 Android,V2038,Vivo,V2038
 Android,V2039,Vivo,V2039
 Android,V2040,Vivo,V2040
+Android,V2041,Vivo,V2041
 Android,V2042,Vivo,V2042
 Android,V2043,Vivo,V2043
 Android,V2043_21,Vivo,V2043_21
@@ -24300,7 +24329,9 @@ Android,V2065A,Vivo,V2065A
 Android,V2066BA,Vivo,V2066BA
 Android,V2068A,Vivo,V2068A
 Android,V2072A,Vivo,V2072A
+Android,V2073A,Vivo,V2073A
 Android,V2080A,Vivo,V2080A
+Android,V2085A,Vivo,V2085A
 Android,V2099A,Vivo,V2099A
 Android,V23GB,Lava,"V2 3GB"
 Android,V2s,Lava,V2s
@@ -24990,6 +25021,7 @@ Android,Volt,Hurricane,Volt
 Android,"Volt S",Vonino,"Volt S"
 Android,Volt-R,Logicom,Volt-R
 Android,VOLTA_KIDS,Zuum,VOLTA_KIDS
+Android,volteer,Google,"Intel Tiger Lake Chromebook"
 Android,VOLT_5XL,Surgephone,SURGE
 Android,Volt_Plus,Hurricane,Volt_Plus
 Android,VOLT_SV451_Vision,"Volt Mobile",VOLT_SV451_Vision
@@ -25505,6 +25537,7 @@ Android,"X1 Dual",MobiiStar,"X1 Dual"
 Android,"X1 Light",Greentel,X1_Light
 Android,"X1 Notch",MobiiStar,"X1 Notch"
 Android,"X1 Selfie",MobiiStar,"X1 Selfie"
+Android,X1-Prime-c,LinkNet,X1-Prime-c
 Android,X10,BMobile,X10
 Android,X100,Doogee,X100
 Android,X100v3,Woxter,X100v3
