@@ -1079,6 +1079,8 @@ Android,9295G,TCL,"10 TABMAX 4G"
 Android,9295G_EEA,TCL,"10 TABMAX 4G"
 Android,9295G_RU,TCL,"10 TABMAX 4G"
 Android,9296G,TCL,"10 TABMAX"
+Android,9296G_EEA,TCL,"10 TABMAX"
+Android,9296G_RU,TCL,"10 TABMAX"
 Android,9296G_TR,TCL,"10 TABMAX"
 Android,9296X,TCL,"10 TABMAX"
 Android,9296X_EEA,TCL,"10 TABMAX"
@@ -6687,6 +6689,7 @@ Android,F_4,Goldmaster,F_4
 Android,F_7HD4CORE,Linsay,F_7HD4CORE
 Android,F_Plus,Fluo,"F Plus"
 Android,G,10.or,G
+Android,"G GuardTV",G-Guard,"G GuardTV"
 Android,"G Watch",LGE,"G Watch"
 Android,"G Watch R",LGE,"G Watch R"
 Android,g-mee1,"CBN Media",g-mee1
@@ -14967,6 +14970,7 @@ Android,"moto g pro",Motorola,"moto g pro"
 Android,"moto g stylus",Motorola,"moto g stylus"
 Android,"moto g stylus (2021)",Motorola,"moto g stylus (2021)"
 Android,"moto g stylus (XT2115DL)",Motorola,"moto g stylus (2021)"
+Android,"moto g(30)",Motorola,"moto g(30)"
 Android,"moto g(6)",Motorola,"moto e6"
 Android,"moto g(6) (XT1925DL)",Motorola,"moto g(6)"
 Android,"moto g(6) play",Motorola,"moto g(6) play"
@@ -16028,6 +16032,7 @@ Android,NX627J,ZTE,NX627J
 Android,NX629J,ZTE,NX629J
 Android,NX651J,ZTE,"Red Magic 5G lite"
 Android,NX659J,ZTE,NX659J
+Android,NX669J,ZTE,NX669J
 Android,NX700QC,Nextbook,NX700QC
 Android,NX785QC,Nextbook,NX785QC
 Android,NX785QC8G,Nextbook,NX785QC8G
@@ -17784,6 +17789,7 @@ Android,PRINCESS,"Disney Frozen",PRINCESS
 Android,"Princess 3G",Turbokids,"Princess 3G"
 Android,Princess_G9,Disney,Princess_G9
 Android,"Prism II",Huawei,"Prism II"
+Android,"Prismplus TV",PRISMPLUS,TV
 Android,Prix,"Tech 4u",Prix
 Android,PRO,AXXA,PRO
 Android,"PRO 7",Meizu,"PRO 7"
@@ -19283,6 +19289,7 @@ Android,SAN-8487,Sansui,Israel
 Android,sand,Acer,"Chromebook 15 CB515-1HT/1H"
 Android,"Sansui Fun",Sansui,Fun
 Android,"Sansui Play",Sansui,Play
+Android,SANSUITV,"Sansui TV",SANSUITV
 Android,Sansui_Nova,Sansui,_Nova
 Android,Sansui_Switch,Sansui,Switch
 Android,santoni,Xiaomi,"Redmi 4X"
