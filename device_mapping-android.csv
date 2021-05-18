@@ -29,6 +29,8 @@ Android,100011886BK,ATVIO,100011886BK
 Android,100011886CA,"Onn (Walmart)",100011886CA
 Android,100015685-A,"Onn (Walmart)",100015685-A
 Android,100015685-E,"Onn (Walmart)",100015685-E
+Android,100026191,"Onn (Walmart)",100026191
+Android,100026203,"Onn (Walmart)",100026203
 Android,1001-G,How,1001-G
 Android,"1001-G Go",How,1001_G
 Android,1008S,"Gear Mobile",Feel_1008S
@@ -115,6 +117,7 @@ Android,1AZ_eea,Mediacom,1AZ_EEA
 Android,1BEC,Mediacom,1BEC_eea
 Android,1BY,Mediacom,1BY
 Android,1CY,Mediacom,1CY_EEA
+Android,1DY,Mediacom,1DY
 Android,1DY4G,Mediacom,1DY4G_eea
 Android,1EY4G,Edong,1EY4G
 Android,2,"TWZ Corporation PLC",2
@@ -135,6 +138,7 @@ Android,201M,Motorola,"Droid Razr M"
 Android,"2020 FHD Android TV",Philips,"2K Android TV"
 Android,"2020/2021 UHD Android TV",Philips,"Android TV"
 Android,2021,Coolpad,"N7 Air"
+Android,"2021/22 Philips UHD Android TV",Philips,"Android TV"
 Android,202F,Fujitsu,"ARROWS A SoftBank 202F"
 Android,202K,Kyocera,"DIGNO R"
 Android,2032,Coolpad,"N7 Plus"
@@ -882,6 +886,7 @@ Android,7LC1,Hyundai,Koral_7LC1
 Android,7LV,"Vue Micro",Vue7LV
 Android,7Q204,sencor,7Q204
 Android,7Qa_3G,Umax,7Qa_3G
+Android,7WA1,Hyundai,HyTab_Plus_7WA1
 Android,7WB1,Hyundai,Koral
 Android,7WC1,Hyundai,Koral
 Android,7WD1,Hyundai,Koral
@@ -968,6 +973,7 @@ Android,81V,"Vue Micro",Vue81V
 Android,825_T-Mobile,Doro,"Liberto 825"
 Android,8262,"TCT (Alcatel)",8262
 Android,831C,HTC,"One (M8)"
+Android,8391,"TCT (Alcatel)","1T10 WIFI"
 Android,8391X,Kurio,"1T10  WIFI NEW"
 Android,8391X_EEA,Kurio,"1T10 WIFI NEW"
 Android,850_4G,Brondi,850_4G
@@ -987,6 +993,7 @@ Android,8BY,Mediacom,8BY_EEA
 Android,8C_LTE,Umax,8C_LTE
 Android,8DTB38,Hipstreet,Electron
 Android,8DTB40,Hipstreet,"Electron 2"
+Android,8LAB1,Hyundai,8LAB1
 Android,"8MA-A 3G",Positivo,8MA-A
 Android,8Qa_3G,Umax,MediaTek
 Android,8TT-A,Hllo,8TT-A_EEA
@@ -1150,6 +1157,7 @@ Android,A100,Acer,A100
 Android,A1000/P1003/P1010,"Southern Telecom",A1000/P1003/P1010
 Android,A101,Acer,A101
 Android,A101LV,Lenovo,Tab6
+Android,A101OP,Oppo,"Reno5 A"
 Android,A102,Ceibal,A102
 Android,A1040M,Klipad,_A1040M
 Android,A1046DRI,Diamond,A1046DRI
@@ -1213,6 +1221,7 @@ Android,A21,Hiking,A21
 Android,A210,Acer,"Iconia Tab A210"
 Android,A2107A-H,Lenovo,A2107A
 Android,A211,Acer,"Iconia Tab A211"
+Android,A21S,AOYODKG,A21S
 Android,A22,Hiking,A22
 Android,A221,Beeline,Smart_8
 Android,A23,Hiking,A23
@@ -1483,6 +1492,7 @@ Android,A9_Pro,Blackview,"A9 Pro"
 Android,"AA 787 S",ASTCA,"AA 787 S"
 Android,AA3-600,Acer,"Aspire A3"
 Android,AB10PGN,Positivo,AB10PGN
+Android,"ABMS Android TV",ZIFFLER,"ABMS Android TV"
 Android,AC101XPro4G,Archos,AC101XPro4G
 Android,AC2001,OnePlus,Nord
 Android,AC2003,OnePlus,Nord
@@ -1521,6 +1531,7 @@ Android,"Aconatic 2K Android TV",Aconatic,
 Android,"Aconatic 4K Android TV",Aconatic,
 Android,ACRUX,Ceibal,ACRUX
 Android,ACT4K1007,ACT,4K1007
+Android,ACT4K2020,ACT,4K2020
 Android,ACTAB1021_A,Acer,ACTAB1021_A
 Android,ACTAB721,Acer,ACTAB721
 Android,ACTAB821_A,Acer,ACTAB821_A
@@ -1535,6 +1546,7 @@ Android,"Active 1+",Vsmart,"Active 1 +"
 Android,"Active 3",Vsmart,"Active 3"
 Android,"Active 5.0",Ophone,"Active 5.0"
 Android,AD7003,Comio,AD7003
+Android,"ADMIRAL 4K TV","Admiral Overseas Corporation","ADMIRAL 4K TV"
 Android,"Admire Blaze",Zen,"Admire Blaze"
 Android,"ADMIRE GLORY+",Zen,"Admire Glory+"
 Android,"ADMIRE NEO+",Zen,"ADMIRE NEO PLUS"
@@ -2182,6 +2194,8 @@ Android,AQUOS-TVJ18,Sharp,"4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1"
 Android,AQUOS-TVJ19,Sharp,4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1
 Android,AQUOS-TVJ19B,Sharp,4T-C**BN1/BL1
 Android,AQUOS-TVJ20B,Sharp,4T-C**BN1H/BL1H
+Android,AQUOS-TVJ21,Sharp,4T-C**DS1/DN1
+Android,AQUOS-TVJ21-2,Sharp,4T-C**DL1/DJ1/DQ1/DN2
 Android,AQUOS-TVT18,Sharp,"AQUOS 8T-**AX1T"
 Android,AQUOS-TVU19A,Sharp,4T-C60BK2UD
 Android,AQUOS-TVX18,Sharp,"AQUOS 4T/8T-C**AL1X/AL2X/AX1X"
@@ -2477,6 +2491,7 @@ Android,ART1,Yezz,ART1
 Android,ART1_PRO,Yezz,ART1_PRO
 Android,"Artel 2K TV",Artel,"2K TV"
 Android,"Artel Air",Artel,Air
+Android,"Artel Android TV",Artel,"Android TV"
 Android,"Artel Premium",Artel,_Premium
 Android,"Artel Quadro",Artel,Quadro
 Android,"Artel Quadro Pro",Artel,"Quadro Pro"
@@ -2573,9 +2588,11 @@ Android,asus_google_cube,Asus,Cube
 Android,ASUS_I001D,Asus,"ROG Phone ll"
 Android,ASUS_I002D,Asus,"ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)"
 Android,ASUS_I003DD,Asus,"ROG Phone 3"
+Android,ASUS_I004D,Asus,"ZenFone 8 Flip"
 Android,ASUS_I005D,Asus,"ROG Phone 5"
 Android,ASUS_I005DA,Asus,"ROG Phone 5"
 Android,ASUS_I005DB,Asus,"ROG Phone 5"
+Android,ASUS_I006D,Asus,"ZenFone 8/ ASUS 8Z"
 Android,ASUS_I01WD,Asus,"ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)"
 Android,ASUS_L001,Asus,"ZenFone Go (ZB690KG)"
 Android,ASUS_P00I,Asus,"ZenPad 3S 10 LTE (Z500KL)"
@@ -2714,6 +2731,8 @@ Android,AT703,Stylus,AT703
 Android,AT8-N,Airtab,AT8-N
 Android,AT830,Toshiba,"JPN:REGZA Tablet AT830 Other countries:TOSHIBA AT330"
 Android,AT8B,Evercoss,AT8B
+Android,AT908,ATID,AT908
+Android,AT908_EEA,ATID,AT908_EEA
 Android,ATAB1021E,Acer,ATAB1021E
 Android,ATAB721E,Acer,ATAB721E
 Android,ATAB821E,Acer,ATAB821E
@@ -3279,6 +3298,7 @@ Android,"Binatone Homesurf744 / Hubble Smart7 (Homesurf744)",Haier,
 Android,"Binatone Homesurf844 / Hubble Smart8 (Homesurf844)",Haier,Homesurf844
 Android,BIOWOLF8F30,BioRugged,BIOWOLF8F30
 Android,BioWolf_C,BioRugged,BioWolf_C
+Android,BIP-UW200,"SK Broadband","Smart3 Mini"
 Android,BIRDY,Wiko,BIRDY
 Android,BISON,Umidigi,BISON
 Android,"BISON GT",Umidigi,BISON_GT
@@ -3315,8 +3335,10 @@ Android,BL5500_Lite,Doogee,BL5500_Lite
 Android,BL55_PRO,BMobile,BL55_PRO_MV12
 Android,BL60,BMobile,BL60
 Android,BL6000Pro,Blackview,BL6000Pro
+Android,BL60M_MV05,BMobile,BL60M_MV05
 Android,BL60_TG05,BMobile,BL60_TG05
 Android,BL60_TG17,BMobile,BL60_TG17
+Android,BL61,BMobile,BL61
 Android,BL7000,Doogee,BL7000
 Android,BLA-A09,Huawei,"Mate 10 Pro"
 Android,BLA-AL00,Huawei,"Mate 10 Pro"
@@ -3683,6 +3705,7 @@ Android,BQ-7022,BQru,BQ-7022G
 Android,BQ-7036L,BQru,BQ-7036L
 Android,BQ-7038G,BQru,BQ-7038G
 Android,BQ-7040G,BQru,BQ-7040G
+Android,BQ-7055L,BQru,BQ-7055L
 Android,BQ-7082G,BQru,BQ-7082G
 Android,BQ-7083G,BQru,BQ-7083G_Plus
 Android,BQ-7084G,BQru,BQ-7084G
@@ -3736,8 +3759,10 @@ Android,"BRAVIA 4K UR1",Sony,"BRAVIA 4K UR1"
 Android,"BRAVIA 4K UR2",Sony,"BRAVIA 4K UR2"
 Android,"BRAVIA 4K UR3",Sony,"BRAVIA 4K UR3"
 Android,"BRAVIA 4K VH2",Sony,"BRAVIA VH2"
+Android,"BRAVIA TL",Sony,"BRAVIA TL"
 Android,"BRAVIA VH1",Sony,"BRAVIA VH1"
 Android,"BRAVIA VU1",Sony,BRAVIA_VU
+Android,"BRAVIA VU2",Sony,BRAVIA_VU2
 Android,"BRAVIS X500",Bravis,X500
 Android,bravis_A506,Bravis,_A506
 Android,Brilliant,Explay,Brilliant
@@ -3837,6 +3862,7 @@ Android,"BUZZ 1 Lite","ACE France",BUZZ_1_Lite
 Android,"BUZZ 1 Plus","ACE France",BUZZ_1_Plus
 Android,"BUZZ 2","ACE France","BUZZ 2"
 Android,"BUZZ 2 Plus","ACE France","BUZZ 2"
+Android,"BUZZ 3","ACE (Global)","BUZZ 3"
 Android,"BUZZ 3 Lite","ACE France","BUZZ 3 Lite"
 Android,BV4000,Blackview,BV4000
 Android,BV4000Pro,Blackview,BV4000Pro
@@ -4144,6 +4170,7 @@ Android,"Cellcom 4G",ZTE,V793
 Android,CELLC_Evolve,Cell_C,"Cell C Evolve"
 Android,CELLC_Extreme,Cell_C,CellC_Extreme
 Android,CELLC_Nitro,Cell_C,"Cell C Nitro"
+Android,"cello 2K Android TV",Cello,
 Android,"cello UK 4K Android TV",Cello,
 Android,Cell_C_Fame,Cell_C,FAME
 Android,Cell_C_Summit_Plus,Cell_C,"Summit Plus"
@@ -4266,6 +4293,8 @@ Android,CK3-M1,Coolpad,CK3-01
 Android,CK65,Honeywell,CK65
 Android,CKT3,"ESI Enterprises",CKT3
 Android,"CLARMIN C1",Clarmin,C1
+Android,"Claro Colombia STB",Claro,"Colombia STB"
+Android,"Claro STB",Claro,SEI810CPR
 Android,Classic,GSmart,Classic
 Android,Classic_Pro,GSmart,Classic_Pro
 Android,Class_C250,beafon,Class_C250
@@ -4399,6 +4428,7 @@ Android,"ConeXis X2",ZTE,"ConeXis X2"
 Android,connect,"CBN Media",connect
 Android,"Connect 451","Sourcing Creation","Connect 451"
 Android,"Connect 5",Logicom,S504
+Android,"Connect TV de SFR",SFR.fr,"Connect TV de SFR"
 Android,Connect4G,Polaroid,Connect4G
 Android,Connect502,"Sourcing Creation",Connect502
 Android,Connect503,Logicom,Connect503
@@ -4701,6 +4731,8 @@ Android,CPH2061,Oppo,A52
 Android,CPH2065,Oppo,"Reno 4Z 5G"
 Android,CPH2067,Oppo,A72
 Android,CPH2069,Oppo,A52
+Android,CPH2071,Oppo,CPH2071
+Android,CPH2077,Oppo,CPH2077
 Android,CPH2089,Oppo,"Reno4 Pro"
 Android,CPH2091,Oppo,"Reno4 5G"
 Android,CPH2119,Oppo,"F17 Pro"
@@ -4712,14 +4744,28 @@ Android,CPH2131,Oppo,A53
 Android,CPH2133,Oppo,A53
 Android,CPH2135,Oppo,A53s
 Android,CPH2139,Oppo,A53
+Android,CPH2145,Oppo,"Find X3 Lite 5G"
 Android,CPH2159,Oppo,"Reno 5"
+Android,CPH2161,Oppo,CPH2161
 Android,CPH2173,Oppo,"Find X3 Pro"
+Android,CPH2179,Oppo,CPH2179
+Android,CPH2185,Oppo,CPH2185
+Android,CPH2195,Oppo,CPH2195
+Android,CPH2197,Oppo,CPH2197
+Android,CPH2199,Oppo,"Reno5 A"
+Android,CPH2201,Oppo,"Reno5 pro"
 Android,CPH2203,Oppo,A94
 Android,CPH2205,Oppo,"Reno5 Lite"
+Android,CPH2207,Oppo,"Find x3 neo"
 Android,CPH2209,Oppo,"Reno4 F"
+Android,CPH2211,Oppo,"Reno5 Z"
+Android,CPH2213,Oppo,"Reno5 Z"
 Android,CPH2217,Oppo,"Reno5 F"
 Android,CPH2219,Oppo,A74
+Android,CPH2239,Oppo,A54
+Android,CPH2263,Oppo,"A74 5G"
 Android,CPH2285,Oppo,"F19 Pro"
+Android,CPH2321,Oppo,"A53s 5G"
 Android,CPN-AL00,Huawei,"MediaPad M3 Lite"
 Android,CPN-L09,Huawei,"MediaPad M3 Lite"
 Android,CPN-W09,Huawei,"MediaPad M3 Lite"
@@ -4914,6 +4960,7 @@ Android,D2104,Sony,"Xperia E1 Dual"
 Android,D2105,Sony,"Xperia E1 Dual"
 Android,D2114,Sony,"Xperia  E1 dual"
 Android,D2120,Vega,D2120
+Android,D2130,Nebula,D2130
 Android,D2140,Nebula,D2140
 Android,D2150,Nebula,D2150
 Android,D2202,Sony,"Xperia E3"
@@ -5077,6 +5124,8 @@ Android,DG7TBIPSDG,DGTEC,DG7TBIPSDG
 Android,DG7TBIPSG,DGTEC,DG7TBIPSG
 Android,DG7TBIPSPA,DGTEC,DG7TBIPSPA
 Android,Dg_1522,DGTEC,Dg_1522
+Android,Dg_1523,DGTEC,Dg_1523
+Android,Dg_1524,DGTEC,Dg_1524
 Android,DH-B301K,Daehap,DH-B301K
 Android,"Dialog Q143L",ZTE,"Dialog Q143L"
 Android,Dialog_Blaze_Mini,"Dialog Blaze",Dialog_Blaze_Mini
@@ -5119,6 +5168,7 @@ Android,Digi_K1,Digicel,"Digi K1"
 Android,"Digma Linx 4.5 PT452E",BYD,PT452E
 Android,DIM100,Diamond,DIM100
 Android,DiMora_LUX,"DiMora Mobile",DiMora_LUX
+Android,DIOVDP_SC01_EEA,"DiO (fr)",DIOVDP_SC01_EEA
 Android,Discovery,Explay,Discovery
 Android,"Discovery Air","General Mobile","Discovery Air"
 Android,"Discovery II Mini","General Mobile","Discovery II Mini"
@@ -5279,6 +5329,7 @@ Android,Dslide714,Danew,Dslide714
 Android,Dslide714_v2,Danew,"Dslide 714"
 Android,Dslide716,Danew,Dslide716
 Android,DSlide750,Danew,"DSlide 750"
+Android,Dslide807,Danew,Dslide807
 Android,Dslide971DC,Danew,Dslide971DC
 Android,Dslide_1020,Danew,Dslide_1020
 Android,Dslide_113,Danew,Dslide_113
@@ -5613,11 +5664,13 @@ Android,EBK_5014G,Thomson,EBK_5014G
 Android,EBL-5304G,Thomson,EBL-5304G
 Android,EBM104JB,Ematic,EBM104JB
 Android,EboxTV,eBox,Tv
+Android,EC1002,Cricket,"® Ovation 2"
 Android,EC30,Zebra,EC30
 Android,EC50,Zebra,EC50
 Android,EC55,Zebra,EC55
 Android,ECHO,Mobicell,ECHO
 Android,"ECHO LOLLY",Modecom,"ECHO LOLLY"
+Android,"Echolink TV",Echolink,TV
 Android,EchosonicTV,ECHOSONIC,TV
 Android,ECHO_FUSION,"Echo Mobiles",FUSION
 Android,ECHO_HOLI,"Echo Mobiles",ECHO_HOLI
@@ -5631,6 +5684,7 @@ Android,"Eco v3 plus",Panasonic,"Eco10 v3 Plus"
 Android,"Eco11 v2",Panasonic,"Eco11 v2"
 Android,"Eco9 v1",Panasonic,"Eco9 v1"
 Android,"Eco9 v2",Panasonic,"Eco9 v2"
+Android,"ECOSTAR SMART TV",EcoStar,"SMART TV"
 Android,EcostarTV,EcoStar,TV
 Android,eco_s,Inco,eco_s
 Android,EDA40,Honeywell,EDA40
@@ -5643,6 +5697,7 @@ Android,EDA61K,Honeywell,EDA61K
 Android,EDA70,Honeywell,EDA70
 Android,EDA71_G,Honeywell,EDA71
 Android,"EDENWOOD 2K Android TV",EDENWOOD,
+Android,"EDENWOOD 4K Android TV",EDENWOOD,
 Android,Edge,Hurricane,Edge
 Android,EDI-AL10,Huawei,荣耀Note8
 Android,EDI-DL00,Huawei,荣耀Note8
@@ -6320,6 +6375,7 @@ Android,FFF-TAB10H,IRIE,FFF-TAB10H
 Android,FFFTAB10,FFFSMARTLIFE,FFFTAB10
 Android,FFFTAB7,FFFSMARTLIFE,FFFTAB7
 Android,FGAD,Royaltek,FGAD
+Android,"FHD Android TV",Philips,"2K Android TV"
 Android,FHMD001,Fujitsu,FHMD001
 Android,FieldBio_500,FieldBio,_500
 Android,FieldBook_E1,"Logic Instrument","FieldBook E1"
@@ -6499,6 +6555,7 @@ Android,FMT-NM7108-01,"Future Mobile Technology",DRONE
 Android,FMT-NM7116-01,"Future Mobile Technology","netsurferDUAL 7"
 Android,FMT-NT8A42-01,"Future Mobile Technology","Dual 8"
 Android,Fog,Explay,Fog
+Android,FONDATION_ORANGEH_2021,Storex,MDDDI13311
 Android,Fone,Figi,Fone
 Android,Fonos-O1,"Famous Fones",Fonos-O1
 Android,Force,"Tech 4u",Force
@@ -6568,6 +6625,7 @@ Android,"FreeTAB 8015 IPS X4",Modecom,"FreeTAB 8015 IPS X4 LTE"
 Android,Free_Liberty_Plus,Free,_Liberty_Plus
 Android,Fresh,Explay,Fresh
 Android,"Fresh FHD Android TV",Fresh,Egypt
+Android,"FRESH SMART TV",Fresh,"SMART TV"
 Android,"Fresh UHD Android TV",Fresh,Egypt
 Android,FRESHMINTTA7,Mintt,FRESHMINTTA7
 Android,FreshTV,Fresh,TV
@@ -6723,6 +6781,7 @@ Android,F_7HD4CORE,Linsay,F_7HD4CORE
 Android,F_7UHD,Linsay,F_7UHD
 Android,F_Plus,Fluo,"F Plus"
 Android,G,10.or,G
+Android,"G Guard SMART TV",G-Guard,"G Guard SMART TV"
 Android,"G GuardTV",G-Guard,"G GuardTV"
 Android,"G Watch",LGE,"G Watch"
 Android,"G Watch R",LGE,"G Watch R"
@@ -6807,6 +6866,7 @@ Android,"G50 Mega",Blu,"G50 MEGA"
 Android,"G50 Plus",Blu,"G50 Plus"
 Android,G501,"General Mobile","GM 20 PRO"
 Android,G507,SimiMobile,G507
+Android,"G51 Plus",Blu,"G51 Plus"
 Android,G526-L11,Huawei,G526
 Android,G526-L22,Huawei,G526
 Android,G526-L33,Huawei,G526
@@ -7791,6 +7851,7 @@ Android,"Halo2 3G",Innjoo,"Halo2 3G"
 Android,"Halo2 LTE",Innjoo,"Halo2 LTE"
 Android,Halo3,Airpha,Halo3_Pro
 Android,Halo3_Pro,Airpha,Halo3_Pro
+Android,Halo4,Airpha,Halo4
 Android,"Halo4 Pro",Airpha,"Halo4 Pro"
 Android,Halona,Mobiwire,H
 Android,Halo_4_mini_LTE,Innjoo,"Halo4 mini LTE"
@@ -7828,6 +7889,7 @@ Android,Hashtag,"AG Mobile",HASHTAG
 Android,HAT4KDTV,Akino,laoshan-Akino
 Android,hatch,Google,"Intel Comet Lake U Chromebook"
 Android,Hatch_101S,Hatch,101S
+Android,Hatch_102S,SUPERSONIC,SC-9810
 Android,HaTV,Tinp,HaTV
 Android,"HAUS JS408",Haus,JS408
 Android,Hawk_from_EE,Mobiwire,"Hawk from EE"
@@ -7921,6 +7983,7 @@ Android,HIHI-41KH-TAB-1,Hihi,-41KH-TAB-1
 Android,HIHI-41KH-TAB-1-EEA,Hihi,-41KH-TAB-1-EEA
 Android,HIKING_A18,Hiking,_A18
 Android,"Hind 5.1",Clout,"Hind 5.1"
+Android,"HiPad Plus",Chuwi,HiPadPlus_EEA
 Android,"HiPad X",Chuwi,HipadX
 Android,"Hisense A2",Hisense,A2
 Android,"Hisense A2M",Hisense,A2M
@@ -7941,6 +8004,7 @@ Android,"Hisense E20",Hisense,E20
 Android,"Hisense E20T",Hisense,E20T
 Android,"Hisense E260U",Hisense,E260U
 Android,"Hisense E30",Hisense,E30
+Android,"Hisense E31 Lite",Hisense,"E31 Lite"
 Android,"Hisense E360M",Hisense,E360M
 Android,"Hisense E40",Hisense,E40
 Android,"Hisense E40 Lite",Hisense,F19
@@ -8000,6 +8064,7 @@ Android,"Hisense H30",Hisense,H30
 Android,"Hisense H40",Hisense,H40
 Android,"Hisense H40 Lite",Hisense,"H40 Lite"
 Android,"Hisense H50",Hisense,"Infinity H50"
+Android,"Hisense H50 Lite",Hisense,U50
 Android,"Hisense H910",Hisense,H910
 Android,"Hisense Hi 1 PRO",Hisense,U965
 Android,"Hisense Hi 2",Hisense,"Hi  2"
@@ -8070,6 +8135,7 @@ Android,"Hisense U965",Hisense,U965
 Android,"Hisense U989",Hisense,U989
 Android,"Hisense U989 Pro",Hisense,"U989 Pro"
 Android,"Hisense V40",Hisense,E40
+Android,"Hisense V50",Hisense,V50
 Android,hisense_gx1200v,Hisense,TV
 Android,"HiSmart 2K ATV4",Hisense,H5500F
 Android,"HiSmart 4K A4FFM",Hisense,laohushan
@@ -8078,6 +8144,7 @@ Android,"HiSmart TV",Hisense,fushan_2
 Android,"HiSmartTV A4",G-Guard,xiaoyushan_emG
 Android,Hit,Explay,Hit
 Android,"Hit P10",Philco,"Hit P10"
+Android,"Hit P12",Philco,"Hit P12"
 Android,"Hit P6",Philco,"Hit P6"
 Android,"HIT Q401 3G HT4039PG",Digma,"HIT Q401 3G HT4039PG"
 Android,"HIT Q500 3G HT5035PG",Digma,"HIT Q500 3G HT5035PG"
@@ -8088,6 +8155,7 @@ Android,HitachiTV,Hitachi,TV
 Android,HiTV-M1,Huawei,"Honor Box Pro"
 Android,HITV101C,Hisense,HITV101C
 Android,HITV102C,Hisense,E22
+Android,HITV103C,Hisense,E23
 Android,HITV105C,Hisense,HITV105C
 Android,HITV300C,Hisense,HITV300C
 Android,HITV512C,Hisense,HITV512C
@@ -8100,6 +8168,7 @@ Android,HK9-4010,INSYS,HK9-4010_EEA
 Android,HK9-K5023,INSYS,HK9-K5023
 Android,"HKC 4K AI Smart TV",RCA,HKC
 Android,HKU7A,Hisense,laoshan_HK
+Android,HL106,I-Scream,edu
 Android,HL4736,Advance,HL4736
 Android,HL4936,Advance,HL4936
 Android,HL5576,Advance,HL5576
@@ -8388,6 +8457,8 @@ Android,HT16S,HOMTOM,HT16S
 Android,HT28,Stream,HT28
 Android,HT70,HOMTOM,HT70
 Android,HT730,Unitech,HT730
+Android,HT7WB1RBK,Hyundai,HT7WB1RBK
+Android,HT7WC1PBK,Hyundai,HT7WC1PBK
 Android,HT80,HOMTOM,HT80
 Android,HTB801,Hezire,HTB801
 Android,"HTC 0P6B9",HTC,"One (M8 Eye)"
@@ -9319,12 +9390,15 @@ Android,Hydro,Kyocera,Hydro
 Android,Hydro_PLUS,Kyocera,"Hydro PLUS"
 Android,Hykker_MyTab10,"MyPhone (PL)","Hykker MyTab10"
 Android,Hype,"AG Mobile",Hype
+Android,"HyTab Plus 10LC2",Hyundai,HyTab_Plus_10LC2
+Android,"HyTab Pro 10LC1",Hyundai,"HyTab Pro 10LC1"
 Android,"HYUNDAI 2K AI Smart TV",Hyundai,
 Android,"Hyundai 2K Android TV",Hyundai,
 Android,"Hyundai 2K TV",Hyundai,"2K TV"
 Android,"HYUNDAI 4K AI Smart TV",Hyundai,
 Android,"Hyundai 4K Android TV",Hyundai,
 Android,"HYUNDAI 4K Smart TV",Hyundai,
+Android,"Hyundai TV",Hyundai,TV
 Android,Hyundai_Eternity_G50,Hyundai,_Eternity_G50
 Android,Hyundai_Eternity_G50L,Hyundai,"Eternity G50L"
 Android,Hyundai_Eternity_G50W,Hyundai,_Eternity_G50W
@@ -9374,6 +9448,7 @@ Android,i1s,iVOOMi,i1s
 Android,i2,iBRIT,i2
 Android,i20,Symphony,i20
 Android,I2009,Vivo,I2009
+Android,I2011,Vivo,I2011
 Android,I2012,Vivo,I2012
 Android,I211,"TCT (Alcatel)","Pixo 7"
 Android,I212,"TCT (Alcatel)","Pixo 7"
@@ -9786,6 +9861,7 @@ Android,IN815,Infocus,IN815
 Android,Indian9,Karbonn,Indian9
 Android,Indigo,Explay,Indigo
 Android,"indurama 2K TV",Indurama,"2K TV"
+Android,"indurama 4K TV",Indurama,"4K TV"
 Android,INE-AL00,Huawei,"nova 3i"
 Android,INE-LX1,Huawei,"Nova 3i"
 Android,INE-LX1r,Huawei,"nova 3i"
@@ -9796,6 +9872,7 @@ Android,"Infinit MX",Timovi,"Infinit MX"
 Android,"Infinit MX Pro",Timovi,"Infinit MX Pro"
 Android,"Infiniton 2K Android TV",MTC,Infiniton
 Android,"Infiniton 4K Android TV",MTC,Infiniton
+Android,"INFINITON Android TV",INFINITON,"SPAIN, MOROCCO, PORTUGAL"
 Android,INFINITY,Hurricane,INFINITY
 Android,"Infinity 2",Sico,Infinity_2
 Android,"Infinity 2 MAX",Sico,Infinity_2_MAX
@@ -9941,6 +10018,7 @@ Android,"Infinix X690C",Infinix,"NOTE 7"
 Android,"Infinix X692",Infinix,"NOTE 8"
 Android,"Infinix X693",Infinix,"NOTE 10"
 Android,"Infinix X695",Infinix,"NOTE 10 Pro"
+Android,"Infinix X695C",Infinix,"NOTE 10 Pro"
 Android,"Infinix Zero 3",Infinix,X552
 Android,"Infinix Zero 4",Infinix,X555
 Android,"Infinix Zero 4 Plus",Infinix,"Zero 4 Plus"
@@ -10108,6 +10186,7 @@ Android,"IO Pro",ROKiT,"IO Pro"
 Android,"ione note",Micromax,"Ione Note"
 Android,IPA-1104HDH-01,Aminocom,eSTREAM4K
 Android,IPA1104HDW-02,"eSTREAM 4K",IPA1104HDW-02
+Android,IPBS9520,"du (UAE)",IPBS9520
 Android,IPHDCK16H,Panodic,IPHDCK16H
 Android,"iphone C600",Gradiente,"iphone C600"
 Android,iPlay_20,Alldocube,iPlay_20
@@ -10170,6 +10249,7 @@ Android,"IQ4602 Quad",Fly,IQ4602
 Android,iQ5011_E,"Making Life Simple",iQ5011_E
 Android,IQ7,Navon,IQ7
 Android,iQ7_2018,Navon,"iQ7 2018"
+Android,IQ8,Navon,_IQ8_2021
 Android,iQ8011,"MLS Innovation",iQ8011
 Android,iQ8225,"MLS Innovation",iQ8225_EEA
 Android,iQ9013_4N,"Making Life Simple",iQ9013_4N
@@ -10222,6 +10302,7 @@ Android,"Iris 2K TV",Iris,"2K TV"
 Android,"iris 31",Lava,iris31
 Android,"iris 50 Pro",Lava,"Iris 50_Pro"
 Android,"iris pro 30",Cellon,"iris pro 30"
+Android,"IRIS Smart TV",Iris,"Smart TV"
 Android,iris30,Lava,iris30
 Android,iris40,Lava,iris40
 Android,iris42,Lava,iris42
@@ -10316,6 +10397,7 @@ Android,iTAB-A1,"iTab XPLUS",iTAB-A1
 Android,iTabS10,"Clickonica Exclusive",iTabS10
 Android,itabx,"Clickonica Exclusive",itabx
 Android,iTab_XPLUS_10_1,"iTab XPLUS",iTab_XPLUS_10_1
+Android,"itel 4K TV",Itel,"4K TV"
 Android,"itel A11",Itel,A11
 Android,"itel A12",Itel,A12
 Android,"itel A13",Itel,A13
@@ -10638,6 +10720,7 @@ Android,JOY_PLUS,Zatec,JOY_PLUS
 Android,Joy_TV,Explay,"Joy TV"
 Android,JR-101,JREN,JR-101
 Android,JR-500,Sts-tottori,JR-500
+Android,JR-J71,JREN,JR-J71
 Android,JR-M802,BMXC,JR-M802
 Android,JR-P2000,Sts-tottori,JR-P2000
 Android,JR_MB603,"Chemist Warehouse",JR-MB603
@@ -10864,6 +10947,7 @@ Android,"K9 Smart Grand",Karbonn,"K9 Smart Grand"
 Android,"K9 Smart Selfie",Karbonn,"K9 Smart Selfie"
 Android,"K9 Smart Yuva",Karbonn,"K9 Smart Yuva"
 Android,"K9 VIRAAT 4G",Karbonn,"K9 Viraat 4G"
+Android,K90,RAINBOX,K90
 Android,K901,Kaicom,K901
 Android,K908H4G,Datamini,K908H4G
 Android,K90U,ZTE,ZPAD
@@ -11016,6 +11100,7 @@ Android,"KING KONG CS",Cubot,"KING KONG CS"
 Android,"KING KONG MAX",QMobile,"KING KONG MAX"
 Android,"Kingcomm C500",Kingcomm,C500
 Android,"Kingcomm E550",Kingcomm,E550
+Android,"KINGKONG 5 Pro",Cubot,"KINGKONG 5 Pro"
 Android,"KINGKONG MINI2",Cubot,"KINGKONG MINI2"
 Android,KINGKONG_MINI,Cubot,KINGKONG_MINI
 Android,KingPad_K10,Vastking,KingPad_K10
@@ -11141,6 +11226,8 @@ Android,KodakTV,Kodak,TV
 Android,KODAK_SMARTWAY_L1,Kodak,_SMARTWAY_L1
 Android,KODAK_SMARTWAY_T2,Kodak,_SMARTWAY_T2
 Android,KODAK_SMARTWAY_X2,Kodak,_SMARTWAY_X2
+Android,"Kogan 4K Android TV",Kogan,"4K Android TV"
+Android,"Kogan 4K PRO Android TV",Kogan,"4K PRO Android TV"
 Android,"Kogan Agora 4G Lite",BenQ,"Kogan Agora 4G Lite"
 Android,"Kogan Agora 6Plus",Kogan,"Agora 6 Plus"
 Android,"Kogan Agora 8",Haier,"Kogan Agora 8"
@@ -11169,6 +11256,7 @@ Android,Konnect_601,Danew,"konnect 601"
 Android,Konnect_607,Danew,Konnect_607
 Android,Konnect_608,Danew,Konnect_608
 Android,KONROW_701X,Konrow,
+Android,"KOODA 2K TV",Kooda,"2K TV"
 Android,"Koral 7W4",Hyundai,HT0705W08/Koral_7W4
 Android,Koral_10X2,Hyundai,Koral_10X2
 Android,Koral_8W2,Hyundai,HT0802W16/Koral_8W2
@@ -12125,6 +12213,8 @@ Android,"Lenovo TB-8505XC",Lenovo,"Smrat Tab M8"
 Android,"Lenovo TB-8505XS",Lenovo,"Smrat Tab M8"
 Android,"Lenovo TB-8506F",Lenovo,"Tab M8 (3rd Gen)"
 Android,"Lenovo TB-8506FS",Lenovo,"Tab M8 (3rd Gen)"
+Android,"Lenovo TB-8506X",Lenovo,"Tab M8 (3rd Gen)"
+Android,"Lenovo TB-8506XS",Lenovo,"Smart Tab M8 (3rd Gen)"
 Android,"Lenovo TB-8604F",Lenovo,"TAB4 8 REL"
 Android,"Lenovo TB-8703F",Lenovo,"TAB3 8 Plus"
 Android,"Lenovo TB-8703N",Lenovo,"TAB3 8 Plus"
@@ -12142,6 +12232,8 @@ Android,"Lenovo TB-8X04F",Lenovo,"TAB4 8 REL"
 Android,"Lenovo TB-J606F",Lenovo,"Tab K11"
 Android,"Lenovo TB-J606L",Lenovo,"Tab P11"
 Android,"Lenovo TB-J606N",Lenovo,"Tab K11"
+Android,"Lenovo TB-J607Z",Lenovo,"Tab P11 5G"
+Android,"Lenovo TB-J616F",Lenovo,"Tab P11 Plus"
 Android,"Lenovo TB-J706F",Lenovo,"Tab P11 Pro"
 Android,"Lenovo TB-J706L",Lenovo,"Tab P11 Pro"
 Android,"Lenovo TB-J706N",Lenovo,"XiaoXin Pad Pro"
@@ -12178,8 +12270,12 @@ Android,"Lenovo TB-X606M",Lenovo,"Tab M10 FHD Plus"
 Android,"Lenovo TB-X606V",Lenovo,"Tab M10 Plus"
 Android,"Lenovo TB-X606X",Lenovo,"Tab M10 FHD Plus"
 Android,"Lenovo TB-X606XA",Lenovo,"Smart Tab M10 FHD Plus with Amazon Alexa"
+Android,"Lenovo TB-X607Z",Lenovo,"Tab M10 5G"
 Android,"Lenovo TB-X616F",Lenovo,"Tab M10 FHD Plus"
 Android,"Lenovo TB-X616M",Lenovo,"Tab M10 FHD Plus"
+Android,"Lenovo TB-X6C6F",Lenovo,"Tab K10"
+Android,"Lenovo TB-X6C6L",Lenovo,"Tab K10"
+Android,"Lenovo TB-X6C6X",Lenovo,"Tab K10"
 Android,"Lenovo TB-X704F",Lenovo,"TAB4 10 Plus"
 Android,"Lenovo TB-X704L",Lenovo,"TAB4 10 Plus"
 Android,"Lenovo TB-X704N",Lenovo,"TAB4 10 Plus"
@@ -12227,6 +12323,7 @@ Android,"Lenovo YB-Q501L",Lenovo,"YOGA A12"
 Android,"Lenovo YB1-X90F",Lenovo,"YOGA BOOK"
 Android,"Lenovo YB1-X90L",Lenovo,"YOGA BOOK"
 Android,"Lenovo YT-J706F",Lenovo,"Yoga Tab 11"
+Android,"Lenovo YT-J706X",Lenovo,"Yoga Tab 11"
 Android,"Lenovo YT-K606F",Lenovo,"Yoga Tab 13(ROW)"
 Android,"Lenovo YT-X703F",Lenovo,"YOGA Tab 3 Plus"
 Android,"Lenovo YT-X703L",Lenovo,"YOGA Tab 3 Plus"
@@ -13035,12 +13132,14 @@ Android,LGL43AL,LGE,"LG Rebel"
 Android,LGL44VL,LGE,"LG Rebel"
 Android,LGL455DL,LGE,"LG L455DL"
 Android,LGL45C,LGE,"Optimus Net"
+Android,LGL460DL,LGE,"LG K33"
 Android,LGL48VL,LGE,"LG K3"
 Android,LGL51AL,LGE,"LG Treasure"
 Android,LGL52VL,LGE,"LG Treasure"
 Android,LGL53BL,LGE,"LG X Style"
 Android,LGL555DL,LGE,K51
 Android,LGL55C,LGE,"Optimus Q"
+Android,LGL560DL,LGE,"LG K35"
 Android,LGL56VL,LGE,"LG X Style"
 Android,LGL57BL,LGE,"K4 (2017)"
 Android,LGL58VL,LGE,"Rebel 3"
@@ -13306,6 +13405,7 @@ Android,LM-K200,LGE,K22
 Android,LM-K300,LGE,"LG K31"
 Android,LM-K310IM,LGE,W11
 Android,LM-K315IM,LGE,W31
+Android,LM-K330,LGE,"LG K33"
 Android,LM-K400,LGE,"LG Harmony 4"
 Android,LM-K410,LGE,"LG K41S"
 Android,LM-K420,LGE,K42
@@ -13313,6 +13413,9 @@ Android,LM-K500,LGE,K51
 Android,LM-K510,LGE,K51S
 Android,LM-K520,LGE,K52
 Android,LM-K525,LGE,K62
+Android,LM-K526,LGE,K62+
+Android,LM-K610IM,LGE,W41
+Android,LM-K735,LGE,"LG Stylo 7"
 Android,LM-K920,LGE,K92
 Android,LM-Q310N,LGE,Q31
 Android,LM-Q510N,LGE,Q51
@@ -13322,6 +13425,7 @@ Android,LM-Q610.FG,LGE,"LG Q7"
 Android,LM-Q610.FGN,LGE,"LG Q7"
 Android,LM-Q617.FGN,LGE,"LG Q7"
 Android,LM-Q620,LGE,"LG Q70"
+Android,LM-Q626N,LGE,Q62
 Android,LM-Q630,LGE,K61
 Android,LM-Q630N,LGE,Q61
 Android,LM-Q710(FGN),LGE,"LG Stylo 4"
@@ -13716,6 +13820,7 @@ Android,M10-4G,Multilaser,"M10 4G"
 Android,M10/Q1010,"Southern Telecom",M10
 Android,M100,Gionee,_M100
 Android,M1000,d.light,M1000
+Android,M101,iMuz,M101
 Android,M1036,Beneve,M1036
 Android,M103H,"TECHNOLOGIA Y CRATIVIDAD",M103H
 Android,M10400,"Packard Bell",M10400
@@ -13808,6 +13913,7 @@ Android,M2010J19SL,Redmi,9T
 Android,M2010J19SY,Xiaomi,"Redmi 9T"
 Android,M2011K2C,Xiaomi,"Mi 11"
 Android,M2011K2G,Xiaomi,"Mi 11"
+Android,M2012K10C,Redmi,"K40 Gaming"
 Android,M2012K11AC,Redmi,K40
 Android,M2012K11AG,Redmi,K40
 Android,M2012K11C,Redmi,"K40 Pro"
@@ -13821,6 +13927,10 @@ Android,M2101K6I,Redmi,"Note 10 Pro Max"
 Android,M2101K6P,Redmi,"Note 10 Pro"
 Android,M2101K7AG,Redmi,"Note 10"
 Android,M2101K7AI,Redmi,"Note 10"
+Android,M2101K7BG,Redmi,"Note 10S"
+Android,M2101K7BI,Redmi,"Note 10S"
+Android,M2101K7BL,Redmi,"Note 10S"
+Android,M2101K7BNY,Redmi,"Note 10S"
 Android,M2101K9AG,Xiaomi,"Mi 11 Lite"
 Android,M2101K9C,Xiaomi,"Mi 11 Lite 5G"
 Android,M2101K9G,Xiaomi,"Mi 11 Lite 5G"
@@ -13830,6 +13940,7 @@ Android,M2102J2SC,Xiaomi,"Mi 10S"
 Android,M2102K1AC,Xiaomi,"Mi 11 Pro"
 Android,M2102K1C,Xiaomi,"Mi 11 Ultra"
 Android,M2102K1G,Xiaomi,"Mi 11 Ultra"
+Android,M2103K19G,Redmi,"Note 10 5G"
 Android,M220,Huawei,M220
 Android,M220c,Huawei,M220
 Android,M24IS820,FBC,M24IS820
@@ -13895,6 +14006,7 @@ Android,M4-SS4457-R,M4tel,"M4 SS4457-R"
 Android,M4-SS4458-R,M4tel,"M4 SS4458-R"
 Android,M40,Chenrui,M40
 Android,M40A,Evercoss,M40A
+Android,M40SE_EEA,Teclast,M40SE_EEA
 Android,M40SE_ROW,Teclast,M40SE_ROW
 Android,M40_EEA,Teclast,M40_EEA
 Android,M40_plus,Timmy,M40_plus
@@ -14179,6 +14291,7 @@ Android,"MARS NOCAM",Vsun,"MARS Nocam"
 Android,"MARS NOTE",Vsun,"MARS Note"
 Android,"MARS TOUCH",Vsun,"MARS  Touch"
 Android,MARS7,NASCO,MARS7
+Android,Mars8,EGOTEK,Mars8
 Android,MARTE,COOP,MARTE
 Android,MARVEL,"Disney Frozen",MARVEL
 Android,"Mascom S750",Mascom,_S750
@@ -14266,6 +14379,7 @@ Android,MB8715,MLAB,MB8715
 Android,MB8717,MLAB,MB8717
 Android,MB886,Motorola,"Atrix HD"
 Android,MB8866,MLAB,MB8866
+Android,MB8992,MLAB,MB8992
 Android,mbadge,Innowi,mbadge
 Android,MBIF-H533,MyBox,MBIF-H533
 Android,"MBX4K Maverick",Mediabox,"MBX4K Maverick"
@@ -14373,6 +14487,7 @@ Android,Mega,Fly,"Life Mega"
 Android,"Mega 10",Camfone,"Mega 10"
 Android,MEGA2,Ipro,MEGA
 Android,Mega2max,Sico,Mega2max
+Android,Mega3_Pro,Airpha,Mega3_Pro
 Android,MEGA7,Ipro,Mega7
 Android,"MegaFon Login 3",MegaFon,"Login 3"
 Android,MegaFon_SP-A10,"TCT (Alcatel)",MegaFon_SP-A10
@@ -14842,6 +14957,7 @@ Android,MID_789IPSA100,Laser,MID_789IPSA100
 Android,MIG,alter,MIG
 Android,Milan,Starlight,Milan
 Android,Milan_Pro,Starlight,Milan_Pro
+Android,"MILECTRIC Android TV",MILECTRIC,"SPAIN, MOROCCO, PORTUGAL"
 Android,Milestone,Motorola,Droid
 Android,"Milestone PLUS",Motorola,"Droid Pro"
 Android,"Milestone X",Motorola,"Droid X"
@@ -14858,6 +14974,7 @@ Android,"Mint Leo",Mint,Leo
 Android,"MINT Pandora",Mint,Pandora
 Android,"Mint Triton",Mint,Triton
 Android,"Mint VirGo",Mint,VirGo
+Android,MINTT-DIGI,Mintt,-DIGI
 Android,MinttPoro,Mintt,Poro
 Android,Mintt_Tab_T1,Mintt,_Tab_T1
 Android,Mint_M341,Mint,M341
@@ -14903,6 +15020,7 @@ Android,MiTV-AXSO1,Xiaomi,MiTV
 Android,MiTV-AXSO2,Xiaomi,MiTV
 Android,MiTV-MOOQ0,Xiaomi,MiTV
 Android,MiTV-MOOQ1,Xiaomi,MiTV
+Android,MiTV-MOOQ3,Redmi,"Smart TV"
 Android,MiTV-MSSP0,Xiaomi,MiTV
 Android,MiTV-MSSP1,Xiaomi,MiTV
 Android,MiTV-MSSP2,Xiaomi,MiTV
@@ -14992,6 +15110,7 @@ Android,"Mobile360 IVT01","VIA Tech","Mobile360 IVT01"
 Android,MobileMapper50_4G,"Trimble Navigation",MM50
 Android,MobileMapper50_WiFi,"Trimble Navigation",MM50
 Android,MobileMapper60,"Trimble Navigation",TDC600/MM60
+Android,MobileMapper60_2,"Spectra Geospatial",Spectra_Geospatial
 Android,Mobility3G,Polaroid,Mobility3G
 Android,Mobitab10_S3_32GB,Bitmore,Mobitab10_S3_32GB
 Android,Moby-M100,Ingenico,Moby-M100
@@ -15010,6 +15129,8 @@ Android,"Momodesign MD Droid",ZTE,"Momodesign MD Droid"
 Android,MON-AL19,Huawei,"华为平板 C5"
 Android,MON-AL19B,Huawei,"华为平板 C5"
 Android,MON-W19,Huawei,"华为平板 C5"
+Android,"MONDIAL 4K TV",Mondial,"4K TV"
+Android,"MONDIAL TV",Mondial,TV
 Android,Mone,Figi,Mone
 Android,"Monsterpad 3G",Turbokids,Monsterpad_3G
 Android,Monsterpad7,Monsterpad,7
@@ -15064,11 +15185,15 @@ Android,"moto g stylus (2021)",Motorola,"moto g stylus (2021)"
 Android,"moto g stylus (XT2115DL)",Motorola,"moto g stylus (2021)"
 Android,"moto g(10)",Motorola,"moto g(10)"
 Android,"moto g(10) power",Motorola,"moto g10 power"
+Android,"moto g(100)",Motorola,"moto g(100)"
 Android,"moto g(30)",Motorola,"moto g(30)"
+Android,"moto g(40) fusion",Motorola,"moto g40 fusion"
+Android,"moto g(50)",Motorola,"moto g50"
 Android,"moto g(6)",Motorola,"moto e6"
 Android,"moto g(6) (XT1925DL)",Motorola,"moto g(6)"
 Android,"moto g(6) play",Motorola,"moto g(6) play"
 Android,"moto g(6) plus",Motorola,"moto g(6) plus"
+Android,"moto g(60)",Motorola,"moto g60"
 Android,"moto g(7)",Motorola,"moto g(7)"
 Android,"moto g(7) optimo (XT1952DL)",Motorola,"moto g(7) optimo (XT1952DL)"
 Android,"moto g(7) optimo maxx(XT1955DL)",Motorola,"moto g(7) optimo maxx(XT1955DL)"
@@ -15162,6 +15287,7 @@ Android,MP1709,Meitu,M8s
 Android,MP1710,Meitu,T9
 Android,MP1718,Meitu,T9
 Android,"MP3-A 2K TV",Blaupunkt,MP3TV
+Android,"MP3-A 4K TV",Blaupunkt,"MP3-A 4K TV"
 Android,MP5184G,"SSB PHONES",MP5184G
 Android,MPDC1006,MPman,MPDC1006
 Android,MPDC706,MPman,MPDC706
@@ -15322,6 +15448,7 @@ Android,Multilaser_Elite_2,Multilaser,"Elite 2"
 Android,Multilaser_E_Lite,Multilaser,"E Lite"
 Android,Multilaser_F,Multilaser,_F
 Android,Multilaser_F_Pro,Multilaser,"F Pro"
+Android,Multilaser_F_Pro_2,Multilaser,"F Pro 2"
 Android,Multilaser_G,Multilaser,G
 Android,Multilaser_GPRO2,Multilaser,"G Pro 2"
 Android,Multilaser_G_Max,Multilaser,"G Max"
@@ -16052,6 +16179,7 @@ Android,NS5008,Nous,Optimum
 Android,NS5502,Nous,NS5502
 Android,NSZ-GS7/GX70,Sony,NSZGS7
 Android,NSZ-GU1,Sony,"BRAVIA Smart Stick"
+Android,NT-01,Skyworth,NT-01
 Android,NT-1714,Navcity,NT-1714
 Android,NT-1716,Navcity,NT-1716
 Android,NT-P70,NorthTech,NT-P70
@@ -16138,6 +16266,7 @@ Android,NX627J,ZTE,NX627J
 Android,NX629J,ZTE,NX629J
 Android,NX651J,ZTE,"Red Magic 5G lite"
 Android,NX659J,ZTE,NX659J
+Android,NX667J,ZTE,"nubia  Z30 Pro"
 Android,NX669J,ZTE,NX669J
 Android,NX700QC,Nextbook,NX700QC
 Android,NX785QC,Nextbook,NX785QC
@@ -16292,6 +16421,7 @@ Android,OpelMobile_SmartX1,OpelMobile,SmartX1
 Android,open_fhd,Skyworth,Asia
 Android,open_uhd,Skyworth,Asia
 Android,OPG01,Oppo,"Find X2 Pro"
+Android,OPG02,Oppo,"A74 5G"
 Android,"OPPO A33m",Oppo,A33m
 Android,"OPPO A35",Oppo,A35
 Android,"OPPO A37",Oppo,A37
@@ -17042,6 +17172,7 @@ Android,PDNM00,Oppo,"Reno4 Pro 中国版"
 Android,PDNT00,Oppo,"Reno4 Pro"
 Android,PDPM00,Oppo,"Reno4 中国版"
 Android,PDPT00,Oppo,"Reno4 中国版"
+Android,PDRM00,Oppo,"Reno5 Pro+ 5G"
 Android,PDSM00,Oppo,"Reno5 Pro 5G"
 Android,PDST00,Oppo,"Reno5 Pro 5G"
 Android,PDT9000,"Southern Telecom",PDT9000
@@ -17067,8 +17198,19 @@ Android,Pearl_Neo,Mint,Pearl_Neo
 Android,Pebble_Quad,"Pebble Quad",PTPC01
 Android,PEDM00,Oppo,"Find X3 中国版"
 Android,PEEM00,Oppo,"Find X3 Pro 中国版"
+Android,PEFM00,Oppo,A35
 Android,Pegasus,Mobiwire,Pegasus
+Android,PEGM10,Oppo,"Reno5 k 5G"
+Android,PEGT10,Oppo,"Reno5 k 5G"
+Android,PEHM00,Oppo,"A93 5G"
+Android,PEHT00,Oppo,PEHM00
 Android,Pelephone-Y300-,Huawei,Y300
+Android,PELM00,Oppo,"Reno5 Z"
+Android,PEMM00,Oppo,"A55 5G"
+Android,PEMM20,Oppo,"A55 5G"
+Android,PEMT00,Oppo,"A55 5G"
+Android,PEMT20,Oppo,"A55 5G"
+Android,Penguin,EGOTEK,Penguin
 Android,PENTA_73AAQ1,Penta,ETBA0692
 Android,PENTA_83AAQ2,Penta,ETBA0552
 Android,People_Plus,"Dahl Sweden","People Plus"
@@ -17077,6 +17219,8 @@ Android,Perla,Ipro,Perla
 Android,"Perseo TV Home 2nd Generation Ranger","Perseo TV","Home 2nd Generation Ranger"
 Android,"Personal Huawei G620S",Huawei,G620S-L03
 Android,"Personal Huawei Y550",Huawei,Y550-L03
+Android,PEXM00,Oppo,"K9 5G"
+Android,PEZM00,Oppo,A54
 Android,PG06100,HTC,"EVO Shift 4G"
 Android,PG86100,HTC,"EVO 3D"
 Android,PGN-506,Condor,C7
@@ -17124,6 +17268,7 @@ Android,Phantom6,Tecno,Phantom6
 Android,Phantom6-Plus,Tecno,"Phantom6 plus"
 Android,Phantom6S,Tecno,Phantom6S
 Android,Phat6,Aprix,Phat6
+Android,"PHILCO Smart TV",Philco,"Smart TV"
 Android,PhilcoTV,Philco,TV
 Android,"PHILIPS 4K TV",Philips,SmartTV
 Android,"Philips S257",Philips,S257
@@ -17323,6 +17468,7 @@ Android,"Platinum K55","Sky Devices","Platinum K55"
 Android,"Platinum M4","Sky Devices","PLATINUM M4"
 Android,"Platinum P9",Karbonn,"Platinum P9"
 Android,"Platinum P9 Pro",Karbonn,"Platinum P9 Pro"
+Android,"Platinum View2","Sky Devices","Platinum View2_Plus"
 Android,Platinum103G2019,Navon,Platinum103G2019
 Android,PlatinumTAB10,BLOW,PlatinumTAB10
 Android,PlatinumTAB10_4G_V1,BLOW,PlatinumTAB10_4G_V1
@@ -17783,6 +17929,7 @@ Android,"Prestige 7G",Prestige,7G
 Android,Pride_1A,ColorsMobile,Pride_1A
 Android,Prime,Explay,Prime
 Android,"Prime 2","MyPhone (PL)",myPhone_Prime_2
+Android,"PRIME Android TV",Prime,"Android TV"
 Android,"Prime L",HighScreen,"Prime L"
 Android,"Prime P30",Jivi,"Prime P30"
 Android,"Prime P300",Jivi,"Prime P300"
@@ -17902,6 +18049,7 @@ Android,PRINCESS,"Disney Frozen",PRINCESS
 Android,"Princess 3G",Turbokids,"Princess 3G"
 Android,Princess_G9,Disney,Princess_G9
 Android,"Prism II",Huawei,"Prism II"
+Android,"PrismPlus 4K Android TV",PRISMPLUS,"4K Android TV"
 Android,"Prismplus TV",PRISMPLUS,TV
 Android,Prix,"Tech 4u",Prix
 Android,PRO,AXXA,PRO
@@ -18072,6 +18220,7 @@ Android,PTC680,Hytera,PTC680
 Android,PTC760,Hytera,PTC760
 Android,PTL21,Pantech,PTL21
 Android,PTM-Z-mini,Tecno,PHANTOM-Z-mini
+Android,PTPC02,"Pebble Quad",PTPC02
 Android,puff,Google,Chromebox
 Android,PULP,Wiko,PULP
 Android,"PULP 4G",Wiko,"PULP 4G"
@@ -18225,6 +18374,7 @@ Android,"QBell 2K Android TV",QBell,
 Android,"QBell 4K Android TV",QBell,
 Android,"QBELL Android TV",QBell,EU
 Android,"QBELL Android TV 2K",QBell,EU
+Android,"Qbell UHD Android TV",QBell,Italy
 Android,QC1004GM,Diva,QC1004GM
 Android,QC7704GM,Diva,QC7704GM
 Android,QC804GM,Diva,QC804GM
@@ -18452,6 +18602,7 @@ Android,R5Plus,"ATM (Brazil)",R5Plus
 Android,R6,Evercoss,R6
 Android,R6006,Oppo,R6006
 Android,R6007,Oppo,R6007
+Android,R678EL,Orbic,Magic
 Android,R7,Mobicell,R7
 Android,R70,Evercoss,R70
 Android,R7005,Oppo,R7005
@@ -18609,6 +18760,7 @@ Android,RCT6673W43M,RCA,"7 Mercury"
 Android,RCT6691W3,RCA,RCT6691W3
 Android,RCT6703W12,RCA,"Atlas 10"
 Android,RCT6703W13,RCA,RCT6703W13
+Android,RCT6716Q23,RCA,RCT6716Q23
 Android,RCT6716Q24,RCA,RCT6716Q24
 Android,RCT6716Q25,RCA,RCT6716Q25
 Android,RCT6773W22,RCA,RCT6773W22
@@ -18876,6 +19028,7 @@ Android,RMX2195,Realme,"C15 Qualcomm Edition"
 Android,RMX2200,Realme,"V3  5G"
 Android,RMX2201,Realme,"V3 5G"
 Android,RMX2202,Realme,真我GT
+Android,RMX2205,Realme,"真我 Q3 Pro 5G"
 Android,RMX3031,Realme,"真我GT Neo"
 Android,RMX3041,Realme,"真我V13 5G"
 Android,RMX3042,Realme,"真我V13 5G"
@@ -18885,10 +19038,17 @@ Android,RMX3085,Realme,8
 Android,RMX3092,Realme,"V15 5G"
 Android,RMX3093,Realme,"V15 5G"
 Android,RMX3115,Realme,"真我X7Pro 至尊版"
+Android,RMX3116,Realme,"真我 X7 pro至尊版"
 Android,RMX3121,Realme,"V11 5G"
+Android,RMX3122,Realme,"V11 5G"
+Android,RMX3161,Realme,"真我 Q3 5G"
 Android,RMX3171,Realme,"narzo 30A"
 Android,RMX3191,Realme,C25
+Android,RMX3193,Realme,C25
 Android,RMX3201,Realme,C21
+Android,RMX3202,Realme,C21
+Android,RMX3203,Realme,C21
+Android,RMX3231,Realme,"C11  2021"
 Android,RMX3241,Realme,"8 5G"
 Android,RNE-AL00,Huawei,"MAIMANG 6"
 Android,RNE-L01,Huawei,"Mate 10 lite"
@@ -19019,6 +19179,7 @@ Android,S10_Tank_2019,iHunt,S10_Tank_2019
 Android,S11,Altice,S11
 Android,"S11 Pro",Ulefone,S11_Pro
 Android,S110,DEXP,S110
+Android,S11M,Dragontouch,S11M
 Android,S12,"Aldo Mobile",S12
 Android,"S12 Lite",Gionee,"S12 Lite"
 Android,S12Pro,Conquest,S12Pro
@@ -19427,10 +19588,12 @@ Android,SAMSUNG-SM-T818A,Samsung,"Galaxy Tab S2 9.7"
 Android,"San Francisco",ZTE,Blade
 Android,"San Remo 4G","TCT (Alcatel)","Idol S"
 Android,SAN-8487,Sansui,Israel
+Android,"SANCO Android TV",SANCO,Vietnam
 Android,sand,Acer,"Chromebook 15 CB515-1HT/1H"
 Android,"Sansui Fun",Sansui,Fun
 Android,"Sansui Play",Sansui,Play
 Android,SANSUITV,"Sansui TV",SANSUITV
+Android,"SANSUITV UHD",Sansui,"TV UHD"
 Android,Sansui_Nova,Sansui,_Nova
 Android,Sansui_Switch,Sansui,Switch
 Android,santoni,Xiaomi,"Redmi 4X"
@@ -19534,6 +19697,8 @@ Android,SCG04,Samsung,"Galaxy Z Flip 5G"
 Android,SCG06,Samsung,"Galaxy Note20 Ultra 5G"
 Android,SCG07,Samsung,"Galaxy A51 5G"
 Android,SCG08,Samsung,"Galaxy A32 5G"
+Android,SCG09,Samsung,"Galaxy S21 5G"
+Android,SCG10,Samsung,"Galaxy S21+ 5G"
 Android,SCH-I100,Samsung,Gem
 Android,SCH-I110,Samsung,Illusion
 Android,SCH-I200,Samsung,"Galaxy Stellar"
@@ -19927,9 +20092,12 @@ Android,"SHARK MBU-A0",Blackshark,MBU-A0
 Android,"SHARK MBU-H0",Blackshark,MBU-H0
 Android,"SHARK PRS-A0",Blackshark,"SHARK PRS-A0"
 Android,"SHARK PRS-H0",Blackshark,"SHARK PRS-H0"
+Android,"SHARP 2K SMART TV",Sharp,"2K SMART TV"
+Android,"SHARP Android TV",Sharp,"Android TV"
 Android,SHARP-ADS1,Sharp,ADS1
 Android,SHARP1,X-TIGI,SHARP1
 Android,Sharp1_Lite,X-TIGI,Sharp1_Lite
+Android,SHARP2_Pro,X-TIGI,SHARP2_Pro
 Android,SHARP_2,X-TIGI,SHARP_2
 Android,SHF31,Sharp,"AQUOS K SHF31"
 Android,SHF32,Sharp,"AQUOS K SHF32"
@@ -20077,6 +20245,8 @@ Android,SILVERSTONE-T10,"Packard Bell",SILVERSTONE-T10
 Android,SILVER_MAX,Kalley,SILVER_MAX
 Android,Silver_S45,"Silver line","Silver S45"
 Android,"Simba SX1",GSmart,"Simba SX1"
+Android,"SINGER BD SMART TV",Singer,"BD SMART TV"
+Android,"SINGER SL SMART TV",Singer,"SL SMART TV"
 Android,SingerTV,Singer,TV
 Android,SINTEL-X1,Sintel,-X1
 Android,"Siragon SP-5000",Siragon,SP-5000
@@ -20120,6 +20290,7 @@ Android,"Sky TV Stick","Sky (CH)","Sky TV Stick"
 Android,"Sky Vision2","Sky Devices","Sky Vision2"
 Android,"SKY Volt","Sky Devices","SKY Volt"
 Android,SKY55_EEA,Konrow,SKY55
+Android,"SKYVIEW Android TV",Skyview,KENYA
 Android,SKYVISION,"Sky Devices","SKY VISION1"
 Android,SKYWORTH-HY4002,"IZZI Telecom",SKYWORTH-HY4002
 Android,SKY_55_EEA,Konrow,SKY_55
@@ -20229,6 +20400,7 @@ Android,SM-A215W,Samsung,"Galaxy A21"
 Android,SM-A217F,Samsung,"Galaxy A21s"
 Android,SM-A217M,Samsung,"Galaxy A21s"
 Android,SM-A217N,Samsung,"Galaxy A21s"
+Android,SM-A226B,Samsung,"Galaxy A22s 5G"
 Android,SM-A260F,Samsung,"Galaxy A2 Core"
 Android,SM-A260G,Samsung,"Galaxy A2 Core"
 Android,SM-A3000,Samsung,"Galaxy A3"
@@ -20482,6 +20654,7 @@ Android,SM-E500F,Samsung,"Galaxy E5"
 Android,SM-E500H,Samsung,"Galaxy E5"
 Android,SM-E500M,Samsung,"Galaxy E5"
 Android,SM-E500YZ,Samsung,"Galaxy E5"
+Android,SM-E5260,Samsung,"Galaxy F52 5G"
 Android,SM-E625F,Samsung,"Galaxy F62"
 Android,SM-E7000,Samsung,"Galaxy E7"
 Android,SM-E7009,Samsung,"Galaxy E7"
@@ -21175,6 +21348,7 @@ Android,SM-M115F,Samsung,"Galaxy M11"
 Android,SM-M115M,Samsung,"Galaxy M11"
 Android,SM-M127F,Samsung,"Galaxy M12"
 Android,SM-M127G,Samsung,"Galaxy M12"
+Android,SM-M127N,Samsung,"Galaxy M12"
 Android,SM-M205F,Samsung,"Galaxy M20"
 Android,SM-M205FN,Samsung,"Galaxy M20"
 Android,SM-M205G,Samsung,"Galaxy M20"
@@ -21189,6 +21363,7 @@ Android,SM-M307FN,Samsung,"Galaxy M30s"
 Android,SM-M315F,Samsung,"Galaxy M31"
 Android,SM-M317F,Samsung,"Galaxy M31s"
 Android,SM-M405F,Samsung,"Galaxy M40"
+Android,SM-M426B,Samsung,"Galaxy M42 5G"
 Android,SM-M515F,Samsung,"Galaxy M51"
 Android,SM-M625F,Samsung,"Galaxy M62"
 Android,SM-N750,Samsung,"Galaxy Note3 Neo"
@@ -21387,10 +21562,12 @@ Android,SM-P905V,Samsung,"Galaxy Note Pro 12.2"
 Android,SM-S102DL,Samsung,"Galaxy A10e"
 Android,SM-S111DL,Samsung,"Galaxy A01"
 Android,SM-S120VL,Samsung,"Galaxy J1"
+Android,SM-S127DL,Samsung,"Galaxy A12"
 Android,SM-S205DL,Samsung,"Galaxy A20"
 Android,SM-S215DL,Samsung,"Galaxy A21"
 Android,SM-S260DL,Samsung,"Galaxy J2"
 Android,SM-S320VL,Samsung,"Galaxy J3(2016)"
+Android,SM-S326DL,Samsung,"Galaxy A32 5G"
 Android,SM-S327VL,Samsung,"Galaxy J3 Pop"
 Android,SM-S337TL,Samsung,"Galaxy J3 Pop"
 Android,SM-S357BL,Samsung,"Galaxy J3 Orbit"
@@ -21434,6 +21611,10 @@ Android,SM-T212,Samsung,"Galaxy Tab3 7.0"
 Android,SM-T215,Samsung,"Galaxy Tab3 7.0"
 Android,SM-T217S,Samsung,"Galaxy Tab3 7.0"
 Android,SM-T217T,Samsung,"Galaxy Tab3 7.0"
+Android,SM-T220,Samsung,"Galaxy Tab A7 Lite"
+Android,SM-T225,Samsung,"Galaxy Tab A7 Lite"
+Android,SM-T225C,Samsung,"Galaxy Tab A7 Lite"
+Android,SM-T225N,Samsung,"Galaxy Tab A7 Lite"
 Android,SM-T230,Samsung,"Galaxy Tab4 7.0"
 Android,SM-T230NT,Samsung,"Galaxy Tab4 7.0"
 Android,SM-T230NU,Samsung,"Galaxy Tab4 7.0"
@@ -21618,6 +21799,12 @@ Android,SM-T727A,Samsung,"Galaxy Tab S5e"
 Android,SM-T727R4,Samsung,"Galaxy Tab S5e"
 Android,SM-T727U,Samsung,"Galaxy Tab S5e"
 Android,SM-T727V,Samsung,"Galaxy Tab S5e"
+Android,SM-T730,Samsung,"Galaxy Tab S7 FE"
+Android,SM-T735,Samsung,"Galaxy Tab S7 FE"
+Android,SM-T735C,Samsung,"Galaxy Tab S7 FE"
+Android,SM-T735N,Samsung,"Galaxy Tab S7 FE"
+Android,SM-T736B,Samsung,"Galaxy Tab S7 FE 5G"
+Android,SM-T737,Samsung,"Galaxy Tab S7 FE"
 Android,SM-T800,Samsung,"Galaxy Tab S 10.5"
 Android,SM-T800X,Samsung,"Galaxy TabS 10.5"
 Android,SM-T805,Samsung,"Galaxy TabS 10.5"
@@ -21841,6 +22028,7 @@ Android,Smart_J2,OpelMobile,"Opel Mobile_Smart_J2"
 Android,SMART_L102,iGet,SMART_L102
 Android,SMART_L103_eea,iGet,SMART_L103_eea
 Android,SMART_L104_eea,iGet,SMART_L104_eea
+Android,SMART_L20X,iGet,SMART_L20X
 Android,Smart_Light,MTC,Smart_Light
 Android,SMART_MAX_4.0_PLUS,True,SMART_MAX_4.0_PLUS
 Android,SMART_O2,OwnMobile,"OWN Smart Ö2"
@@ -22221,6 +22409,7 @@ Android,"Star 6.0 G65",EKO,"Star 6.0 G65"
 Android,"STAR PRO",Starlight,"STAR PRO"
 Android,Star-10WF,Starlight,Star-10WF
 Android,Star-Plus7,Starlight,Star-Plus7
+Android,"STAR-X FHD Android TV",Star-X,"Middle East"
 Android,"STAR-X UHD Android TV",Star-X,"Middle East"
 Android,"Star7 3G",CORN,Star7_3G
 Android,Star8_3G,CORN,Star8_3G
@@ -22360,6 +22549,7 @@ Android,Storm_C3,"Cloud (TruConnect)","Storm C3"
 Android,STR-9.6-Tablet,"MachSpeed (Apollo Brands)",STR-9.6-Tablet
 Android,Stratus_C5,"Cloud (TruConnect)",Stratus_C5
 Android,"Strawberry SX",Strawberry,SX
+Android,Stream,Stream,
 Android,"Stream TV",Verizon,"Stream TV"
 Android,STREAM7,iSWAG,STREAM7
 Android,StrikaPlay,Boost,StrikaPlay
@@ -22533,6 +22723,7 @@ Android,SWTV,SWTV,Asia
 Android,SWTV-20AE,SWTV,-20AE
 Android,SWTV-20AE-PRO,SWTV,-20AE-PRO
 Android,SWTV-20HK,SWTV,-20HK
+Android,SWTV-20HK-PRO,SWTV,-20HK-PRO
 Android,SWTV-20NA,SWTV,-20N
 Android,SWTV-20NA-PRO,SWTV,-20NA-PRO
 Android,SWTV-20SA,SWTV,-20SA
@@ -23238,6 +23429,7 @@ Android,TDC100_4G,"Trimble Navigation",MM50
 Android,TDC100_WiFi,"Trimble Navigation",MM50
 Android,TDC500,"Trimble Navigation","TDC500 Handheld"
 Android,TDC600,"Trimble Navigation",TDC600/MM60
+Android,TDC600_2,"Trimble Navigation",TDC600_2
 Android,TDC800,"Trimble Navigation","TDC800 Handheld"
 Android,"TDI 600","Trimble Navigation","TDI 600"
 Android,TE1,Telefunken,"Enjoy TE1"
@@ -23317,6 +23509,7 @@ Android,"TECNO CF8",Tecno,"CAMON 11 Pro"
 Android,"TECNO CG6",Tecno,"CAMON 17"
 Android,"TECNO CG6j",Tecno,"CAMON 17"
 Android,"TECNO CG7",Tecno,"CAMON 17P"
+Android,"TECNO CG7n",Tecno,"CAMON 17P"
 Android,"TECNO CG8",Tecno,"CAMON 17 Pro"
 Android,"TECNO CX Air",Tecno,"Camon CX Air"
 Android,"TECNO DP10A",Tecno,Droipad10
@@ -23380,10 +23573,13 @@ Android,"TECNO KE6",Tecno,"SPARK 6 Air"
 Android,"TECNO KE6j",Tecno,"SPARK 6 Air"
 Android,"TECNO KF6",Tecno,"SPARK 7"
 Android,"TECNO KF6h",Tecno,"SPARK 7"
+Android,"TECNO KF6i",Tecno,"SPARK 7"
 Android,"TECNO KF6j",Tecno,"SPARK 7"
 Android,"TECNO KF6k",Tecno,"SPARK 7"
 Android,"TECNO KF6m",Tecno,"SPARK 7"
 Android,"TECNO KF6n",Tecno,"SPARK 7"
+Android,"TECNO KF6p",Tecno,"SPARK 7T"
+Android,"TECNO KF7j",Tecno,"SPARK 7P"
 Android,"TECNO KF8",Tecno,"SPARK 7 Pro"
 Android,"TECNO L6502S",Tecno,"POP X5"
 Android,"TECNO L8 Lite",Tecno,"L8 Lite"
@@ -23401,6 +23597,8 @@ Android,"TECNO LC7S",Tecno,"Pouvoir 4"
 Android,"TECNO LC8",Tecno,"Pouvoir 4 Pro"
 Android,"TECNO LD7",Tecno,POVA
 Android,"TECNO LD7j",Tecno,POVA
+Android,"TECNO LE7",Tecno,"POVA 2"
+Android,"TECNO LE7n",Tecno,"POVA 2"
 Android,"TECNO M3S",Tecno,M3
 Android,"TECNO N5S",Tecno,N5S
 Android,"TECNO N8",Tecno,N8
@@ -23524,6 +23722,7 @@ Android,Tele2_Mini,Tele2,Mini
 Android,Tele2_Mini_1.1,Tele2,"Mini 1.1"
 Android,Tele2_Mini_1_1,Tele2,"Mini 1.1"
 Android,"Telecable ATV",Telecable,tedi
+Android,"TELEFUNKEN SMART TV",Telefunken,"SMART TV"
 Android,TelefunkenTV,Telefunken,TV
 Android,TELEGENIC-AML-1,Telegenic,-AML-1
 Android,"Telekom Puls",T-Mobile,Telekom_Puls
@@ -23569,6 +23768,7 @@ Android,TEOX102,Thomson,TEOX102
 Android,TEOX103,Thomson,TEOX103
 Android,"Teracube 2e",Teracube,2e
 Android,"Teracube One",Teracube,_One
+Android,TERRA_MOBILE_PAD_1200,TERRA,_MOBILE_PAD_1200
 Android,TERRA_PAD_1005,TERRA,_PAD_1005
 Android,TERRA_PAD_1005POKO,TERRA,_PAD_1005POKO
 Android,TERRA_PAD_1006,TERRA,_PAD_1006
@@ -23578,6 +23778,7 @@ Android,TESHM8863,Tecnomaster,TESHM8863
 Android,"Tesla 2K TV",Tesla,"2K TV"
 Android,"Tesla L7.1",Tesla,Tablet_L7_1
 Android,"Tesla L8.1",Tesla,"Tablet L8.1"
+Android,"Tesla S906",Tesla,S906
 Android,Tesla_9_3,Tesla,_9_3
 Android,Tesla_L8_2,Tesla,_L8_2
 Android,Tesla_SP3.3,Tesla,"Smartphone 3.3"
@@ -23688,11 +23889,13 @@ Android,TIS001B,Tigers,TIS001B
 Android,TIS001C,Tigers,TIS001C
 Android,TIS001_S4,Tigers,TIS001_S4
 Android,TIS_001,Tigers,TIS_001
+Android,"TIT SMART TV",TIT(SA),"TIT SMART TV"
 Android,TIT-AL00,Huawei,"Y6 Pro"
 Android,TIT-L01,Huawei,"Y6 Pro"
 Android,Titan,Cell_C,Titan
 Android,"Titan P4000 Pro 2021_EEA",iHunt,Titan_P4000_Pro_2021_EEA
 Android,"Titan P8000 PRO 2021",iHunt,"Titan P8000 PRO 2021"
+Android,"Titan pocket",Unihertz,"Titan pocket"
 Android,Titanium,Motorola,"Opus One"
 Android,"Titanium Frames S7",Karbonn,"Titanium Frames S7"
 Android,"Titanium Jumbo",Karbonn,"Titanium Jumbo"
@@ -23715,6 +23918,7 @@ Android,Titan_T1,Haier,Titan_T1
 Android,Titan_T3,Haier,Titan_T3
 Android,Titan_T3_Pro,Haier,"Titan T3 Pro"
 Android,Titan_T5,Haier,"Titan T5"
+Android,TITTV,TIT(SA),TITTV
 Android,"TiVo Stream 4K","TiVo Stream 4K",
 Android,TK701,AEEZO,TK701
 Android,TK701_EEA,AEEZO,TK701_EEA
@@ -23792,6 +23996,7 @@ Android,TN451A1,Turbonet,TN451A1
 Android,TN500A1,Turbonet,TN500A1
 Android,TN500A2,Turbonet,TN500A2
 Android,TN502A1,Turbonet,TN502A1
+Android,TN618,Novinsun,TN618
 Android,TN800A1,Turbonet,"TurboTab E1"
 Android,TnT5,Jivi,TnT5
 Android,TNY-AL00,Huawei,"Honor Magic 2"
@@ -23816,7 +24021,9 @@ Android,TONE-m17,Fujitsu,"TONE m17"
 Android,TONE_e21,TONE,_e21
 Android,TOP10,TO21COMMS,TOP10
 Android,Tornado,Explay,Tornado
+Android,"TORNADO 2K SMART TV",TORNADO,"2K SMART TV"
 Android,"Tornado 348",KAZAM,"Tornado 348"
+Android,"TORNADO Android TV",TORNADO,"Android TV"
 Android,Tornado3G,Explay,"Tornado 3G"
 Android,Torque,Kyocera,Torque
 Android,"Toshiba Chromebook 2 (2015 Edition)",Toshiba,"Chromebook 2 (2015 Edition)"
@@ -23853,6 +24060,7 @@ Android,tPad8,Teclast,tPad8
 Android,TPC-704-3G,Vivax,TPC-704-3G
 Android,TPC-705Kids,DigiLand,TPC-705Kids_EEA
 Android,TPC-G1010,JAY-TECH,TPC-G1010
+Android,TPC-G1011LTE,JAY-TECH,TPC-G1011LTE
 Android,TPC-G109,JAY-TECH,TPC-G109_EEA
 Android,TPC_8043G,Vivax,TPC_8043G
 Android,TPC_8053G,Vivax,TPC_8053G
@@ -24510,25 +24718,35 @@ Android,V2047A,Vivo,V2047A
 Android,V2048,Vivo,V2048
 Android,V2048A,Vivo,V2048A
 Android,V2049A,Vivo,V2049A
+Android,V2050,Vivo,V2050
 Android,V2052,Vivo,V2052
+Android,V2053,Vivo,V2053
 Android,V2054,Vivo,V2054
 Android,V2054A,Vivo,V2054A
 Android,V2055A,Vivo,V2055A
 Android,V2056A,Vivo,V2056A
+Android,V2057,Vivo,V2057
 Android,V2057A,Vivo,V2057A
+Android,V2058,Vivo,V2058
 Android,V2059A,Vivo,V2059A
 Android,V2061,Vivo,V2061
 Android,V2061A,Vivo,V2061A
 Android,V2065,Vivo,V2065
 Android,V2065A,Vivo,V2065A
+Android,V2066,Vivo,V2050
 Android,V2066A,Vivo,V2066A
 Android,V2066BA,Vivo,V2066BA
+Android,V2068,Vivo,V2068
 Android,V2068A,Vivo,V2068A
+Android,V2069,Vivo,V2069
+Android,V2070,Vivo,V2070
 Android,V2072A,Vivo,V2072A
 Android,V2073A,Vivo,V2073A
 Android,V2080A,Vivo,V2080A
 Android,V2085A,Vivo,V2085A
 Android,V2099A,Vivo,V2099A
+Android,V2101,Vivo,V2101
+Android,V2102,Vivo,V2102
 Android,V2106A,Vivo,V2106A
 Android,V2108,Vivo,V2108
 Android,V2118A,Vivo,V2118A
@@ -24693,6 +24911,10 @@ Android,VCR-A0,Coolpad,VCR-A0
 Android,VCR-I0,Coolpad,VCR-I0
 Android,VCT9716Q24,Venturer,VCT9716Q24
 Android,VCT9B06Q22,Venturer,VCT9B06Q22_eea
+Android,VCT9B06Q22N,Venturer,VCT9B06Q22N
+Android,VCT9B06Q23,Venturer,VCT9B06Q23
+Android,VCT9B06Q23EU,Alco,VCT9B06Q23EU_eea
+Android,VCT9F08Q22D,Venturer,VCT9F08Q22D
 Android,VCT9F78Q22,Venturer,VCT9F78Q22
 Android,VCT9F78Q22-A0,Venturer,VCT9F78Q22-A0
 Android,VCT9F78Q22-A1,Venturer,VCT9F78Q22-A1
@@ -24922,6 +25144,7 @@ Android,"View2 Plus",Wiko,"View2 Plus"
 Android,"VIEWPAD I7M",ViewSonic,"ViewPad I7M"
 Android,"ViewPad M10-2/32",ViewSonic,ViewPad_M10_2_32
 Android,"VIEWPAD M10M","G Y P NEW TREE SA","VIEWPAD M10M"
+Android,"ViewPad M7-2/32",ViewSonic,ViewPad_M7_2_32
 Android,ViewPad-Kids-7A,Neostra,"ViewPad 7A"
 Android,VIEWPAD_AW7M_PLUS,ViewSonic,
 Android,ViewPad_M10,ViewSonic,ViewPad_M10
@@ -24936,9 +25159,12 @@ Android,"Vip Racer III",ZTE,"Vip Racer III"
 Android,VIP5242A,Movistar,"Telefonica ATV"
 Android,VIP6102W,Arris,"VIP6102W Genesis"
 Android,"VIP7100 A",Arris,"VIP7100 A"
+Android,"VISIO 4K Android TV",VISIO,"4K Android TV"
+Android,"VISIO TV",VISIO,TV
 Android,Vision,Hisense,55H6SG
 Android,"Vision FHD Android TV",Vision,Bangladesh
 Android,"VISION LTE",Innjoo,"VISION LTE"
+Android,"VISION SMART TV",Vision,"SMART TV"
 Android,"Vision Touch Inspire",Visiontouch,Inspire
 Android,"VISION ULTRA",Timovi,"VISION ULTRA"
 Android,"VISION W1",HumaxDigital,"VISION W1"
@@ -25171,6 +25397,8 @@ Android,VIZ070TAB811BLU,Vizmo,VIZ070TAB811BLU
 Android,VIZ070TAB811PNK,Vizmo,VIZ070TAB811PNK
 Android,VIZ101TAB711,Vizmo,VIZ101TAB711
 Android,VIZ101TAB811BLK,Vizmo,VIZ101TAB811BLK
+Android,"VIZZION 4K TV",VIZZION,"4K TV"
+Android,"VIZZION TV",VIZZION,TV
 Android,VK4000,Vkworld,VK400
 Android,VK410,LGE,"GPAD 7.0 LTE"
 Android,VK700,LGE,"G Pad 10.1 LTE"
@@ -25453,6 +25681,7 @@ Android,W-V750BN-EEA,Wiko,"View6 Lite"
 Android,W-V750BN-OPE,Wiko,"Power U20"
 Android,W-V750BN-TVM,Wiko,"Power U20"
 Android,W-V755-EEA,Wiko,"Power U30"
+Android,W-V755-OPE,Wiko,"Power U30"
 Android,W-V755-TVM,Wiko,"Power U30"
 Android,W-V800-CA,Wiko,"View3 Lite"
 Android,W-V800-DU,Wiko,"View3 Lite"
@@ -25934,6 +26163,7 @@ Android,X84,Premio,X84
 Android,X8607,ZTE,"Blade L3"
 Android,X8MT16,XTRATECH_IGUANAPAD,X8MT16
 Android,X8MT87,Xtratech,X8MT87
+Android,X8_Soul_Style,AllView,"X8 Soul Style"
 Android,X9,Evercoss,X9
 Android,"X9 Mini",Doogee,"X9 Mini"
 Android,X90,Doogee,X90
@@ -25988,6 +26218,7 @@ Android,XIG01,Xiaomi,"Mi 10 Lite 5G"
 Android,"Xino Z46 X4+",Modecom,"Xino Z46 X4+"
 Android,Xiphos(R)TMD,Oceusnetworks,Xiphos®TMD
 Android,XI_CEU55,XION,XI_CEU55
+Android,XK03H,XGIMI,XK03H
 Android,XL,iBRIT,XL
 Android,"XL PLUS",Qpad,"XL PLUS"
 Android,XL150,DEXP,"DNS_DEXP XL150 Project"
@@ -26199,6 +26430,8 @@ Android,"XTouch X",xTouch,X
 Android,"XTOUCH X10",xTouch,X10
 Android,XTOUCH_A5,xTouch,A5
 Android,"Xtreme 1",Jivi,Xtreme_1
+Android,"XTREME 4K TV",Xtreme,"4K TV"
+Android,"XTREME TV",Xtreme,TV
 Android,"Xtreme XT309",Jivi,"Xtreme XT309"
 Android,"Xtreme XT309 Plus",Jivi,"Xtreme XT309 Plus"
 Android,"Xtreme XT84",Jivi,"Xtreme  XT84"
@@ -26269,6 +26502,7 @@ Android,Y545-U05,Huawei,Y545-U05
 Android,Y550-L02,Huawei,Y550-L02
 Android,Y550-L03,Huawei,Y550-L03
 Android,Y57,iRulu,Y57
+Android,Y57A,Surfans,Y57A
 Android,Y57P,iRulu,Y57P_EEA
 Android,Y6,Doogee,Y6
 Android,"Y6 Max",Doogee,"Y6 Max"
@@ -26298,6 +26532,7 @@ Android,YAL-TL00,Huawei,"HONOR 20"
 Android,"YASIN 2K Android TV",Yasin,
 Android,"YASIN 2K TV",Yasin,"2K TV"
 Android,"YASIN 4K Android TV",Yasin,
+Android,"Yasin Android TV",Yasin,"Android TV"
 Android,YBMK01,iRiver,"Wow(Window of the world)"
 Android,YC-102D,GP-electronic,YC-102D
 Android,YC-3135D,GP-electronic,YC-3135D
@@ -26609,6 +26844,8 @@ Android,"Zephir 2K Android TV",Zephir,
 Android,"Zephir 4K Android TV",Zephir,
 Android,"ZEPHIR Android TV",Zephir,"android TV"
 Android,"ZEPHIR Android TV 2K",Zephir,"2K android TV"
+Android,"Zephir FHD Android TV",Zephir,Italy
+Android,"Zephir UHD Android TV",Zephir,Italy
 Android,Zero_Spin,Vitsmo,"Zero Spin"
 Android,Zest_Q108I,Alcor,
 Android,Zest_Q708I,Alcor,
@@ -26618,6 +26855,7 @@ Android,ZIDS701,okulaku,ZIDS701
 Android,ZIK_W1027,"ZIK (kz)",ZIK_W1027
 Android,Zilo,Orange,Zilo
 Android,Zio,Kyocera,Zio
+Android,Zion_5,CLIO,Zion_5
 Android,Zircon_1015,Talius,Zircon_1015
 Android,Zircon_1016_4G,Talius,Zircon_1016_4G
 Android,ZKB2A,ZTE,"Spro 2"
@@ -26640,12 +26878,14 @@ Android,ZPLAY1_2018,Zatec,ZPLAY1_2018
 Android,Zpower_2018,Zatec,Zpower_2018
 Android,Zpower_Plus,Zatec,Zpower_Plus
 Android,ZR01,ZTE,ZR01
+Android,ZS590KS,Asus,"ZenFone 8/ ASUS 8Z"
 Android,ZS600KL,Asus,"ROG Phone"
 Android,ZS620KL,Asus,"ZenFone 5Z (ZS620KL) (WW) / 5Z (ZS621KL) (IN)"
 Android,ZS630KL,Asus,"ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)"
 Android,ZS660KL,Asus,"ROG Phone ll"
 Android,ZS661KS,Asus,"ROG Phone 3"
 Android,ZS670KS,Asus,"ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)"
+Android,ZS672KS,Asus,"ZenFone 8 Flip"
 Android,ZS673KS,Asus,"ROG Phone 5"
 Android,"ZT 216",zyrex,"ZT 216"
 Android,ZT-701,AtGames-zooti,"ZOOTI PAD ZT-701"
@@ -26663,14 +26903,18 @@ Android,ZT8332_2,zyrex,ZT8332_2
 Android,ZTAB01B,Zexelon,ZTAB01B
 Android,"ZTE 2050",ZTE,2050
 Android,"ZTE 2050RU",ZTE,2050RU
+Android,"ZTE 7530N",ZTE,7530N
 Android,"ZTE 8000",ZTE,"Blade V2020 Vita"
 Android,"ZTE 8010",ZTE,8010
 Android,"ZTE 8010RU",ZTE,8010RU
 Android,"ZTE 8012N",ZTE,8012N
+Android,"ZTE 8030",ZTE,8030
 Android,"ZTE 8030N",ZTE,8030N
+Android,"ZTE 8031",ZTE,8030
 Android,"ZTE 9000",ZTE,"Blade V 2020"
 Android,"ZTE 9000N",ZTE,"Axon 11 SE 5G"
 Android,"ZTE 9000RU",ZTE,"Blade V 2020"
+Android,"ZTE 9030",ZTE,9030
 Android,"ZTE 9030N",ZTE,9030N
 Android,"ZTE A0616",ZTE,A0616
 Android,"ZTE A0620",ZTE,A0620
@@ -26697,6 +26941,7 @@ Android,"ZTE A2021G",ZTE,"Axon 11 5G"
 Android,"ZTE A2021H",ZTE,"Axon 11 5G"
 Android,"ZTE A2021L",ZTE,"Axon 11"
 Android,"ZTE A2022",ZTE," Axon 30 5G"
+Android,"ZTE A2022P",ZTE,"Axon 30 Pro 5G"
 Android,"ZTE A2121",ZTE,"A20 5G"
 Android,"ZTE A2121E",ZTE,A2121E
 Android,"ZTE A2121G",ZTE,"Axon 20 5G"
@@ -26710,6 +26955,7 @@ Android,"ZTE A7010",ZTE,A7010
 Android,"ZTE A7020",ZTE,A7020
 Android,"ZTE A7020RU",ZTE,"Blade A7s 2020"
 Android,"ZTE A7030",ZTE,A7030
+Android,"ZTE A7030RU",ZTE,A7030RU
 Android,"ZTE A880",ZTE,A880
 Android,"ZTE Axon 10 Pro",ZTE,"Axon 10 Pro"
 Android,"ZTE B2015",ZTE,B2015
@@ -26755,6 +27001,7 @@ Android,"ZTE Blade A31 Lite",ZTE,"Blade A31 Lite"
 Android,"ZTE Blade A31 Lite RU",ZTE,"Blade A31 Lite RU"
 Android,"ZTE BLADE A310",ZTE,"BLADE A310"
 Android,"ZTE Blade A315",ZTE,"Blade A315"
+Android,"ZTE Blade A31RU",ZTE,"Blade A31RU"
 Android,"ZTE BLADE A320",ZTE,"BLADE A320"
 Android,"ZTE BLADE A321",ZTE,"OWN FUN 5(4G)"
 Android,"ZTE BLADE A330",ZTE,"BLADE A330"
