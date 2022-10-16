@@ -171,6 +171,22 @@
 	<string>iPhone 12 Pro</string>
 	<key>iPhone13,4</key>
 	<string>iPhone 12 Pro Max</string>
+	<key>iPhone14,2</key>
+	<string>iPhone 13 Pro</string>
+	<key>iPhone14,3</key>
+	<string>iPhone 13 Pro Max</string>
+	<key>iPhone14,4</key>
+	<string>iPhone 13 Mini</string>
+	<key>iPhone14,5</key>
+	<string>iPhone 13</string>
+	<key>iPhone14,7</key>
+	<string>iPhone 14</string>
+	<key>iPhone14,8</key>
+	<string>iPhone 14 Plus</string>
+	<key>iPhone15,2</key>
+	<string>iPhone 14 Pro</string>
+	<key>iPhone15,3</key>
+	<string>iPhone 14 Pro Max</string>
 	<key>iPhone2,1</key>
 	<string>iPhone 3GS</string>
 	<key>iPhone3,1</key>
@@ -271,12 +287,38 @@
 	<string>Watch SE 40mm case (GPS)</string>
 	<key>Watch6,1</key>
 	<string>Watch Series 6 40mm case (GPS)</string>
+	<key>Watch6,10</key>
+	<string>Watch SE 40mm case (GPS)</string>
+	<key>Watch6,11</key>
+	<string>Watch SE 44mm case (GPS)</string>
+	<key>Watch6,12</key>
+	<string>Watch SE 40mm case (GPS+Cellular)</string>
+	<key>Watch6,13</key>
+	<string>Watch SE 44mm case (GPS+Cellular)</string>
+	<key>Watch6,14</key>
+	<string>Watch Series 8 40mm case (GPS)</string>
+	<key>Watch6,15</key>
+	<string>Watch Series 8 44mm case (GPS)</string>
+	<key>Watch6,16</key>
+	<string>Watch Series 8 40mm case (GPS+Cellular)</string>
+	<key>Watch6,17</key>
+	<string>Watch Series 8 44mm case (GPS+Cellular)</string>
+	<key>Watch6,18</key>
+	<string>Watch Ultra</string>
 	<key>Watch6,2</key>
 	<string>Watch Series 6 44mm case (GPS)</string>
 	<key>Watch6,3</key>
 	<string>Watch Series 6 40mm case (GPS+Cellular)</string>
 	<key>Watch6,4</key>
 	<string>Watch Series 6 44mm case (GPS+Cellular)</string>
+	<key>Watch6,6</key>
+	<string>Watch Series 7 41mm case (GPS)</string>
+	<key>Watch6,7</key>
+	<string>Watch Series 7 45mm case (GPS)</string>
+	<key>Watch6,8</key>
+	<string>Watch Series 7 41mm case (GPS+Cellular)</string>
+	<key>Watch6,9</key>
+	<string>Watch Series 7 45mm case (GPS+Cellular)</string>
 	<key>x86_64</key>
 	<string>iPhone Simulator</string>
 </dict>
