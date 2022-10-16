@@ -23,7 +23,7 @@ Unofficial mapping from mobile device model/machine ID to model name, for iOS an
 
 ## File Formats
 - CSV: Comma Separated Values, with header row
-- SQL: MySQL format with `CREATE TABLE IF EXISTS` and `INSERT IGNORE`
+- SQL: MySQL format with `CREATE TABLE IF NOT EXISTS` and `INSERT IGNORE`
 - PList: Apple PList file in XML format (as opposed to binary)
 - Properties: Java properties file format; the manufacturer and model names are separated by a pipe character (ie. `Samsung|Galaxy S9+`)
 
