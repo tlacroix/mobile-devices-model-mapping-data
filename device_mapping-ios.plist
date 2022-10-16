@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>	<key>arm64</key>
+<dict>	<key>AppleTV11,1</key>
+	<string>Apple TV 4K (2nd generation)</string>
+	<key>AppleTV3,1</key>
+	<string>AppleTV</string>
+	<key>AppleTV3,2</key>
+	<string>AppleTV</string>
+	<key>AppleTV5,3</key>
+	<string>Apple TV</string>
+	<key>AppleTV6,2</key>
+	<string>Apple TV 4K</string>
+	<key>arm64</key>
 	<string>iPhone Simulator</string>
 	<key>AudioAccessory1,1</key>
 	<string>HomePod</string>
@@ -23,10 +33,38 @@
 	<string>iPad 8th Gen (WiFi)</string>
 	<key>iPad11,7</key>
 	<string>iPad 8th Gen (WiFi+Cellular)</string>
+	<key>iPad12,1</key>
+	<string>iPad (9th generation)</string>
+	<key>iPad12,2</key>
+	<string>iPad (9th generation)</string>
 	<key>iPad13,1</key>
 	<string>iPad Air 4th Gen (WiFi)</string>
+	<key>iPad13,10</key>
+	<string>iPad Pro (12.9-inch) (5th generation)</string>
+	<key>iPad13,11</key>
+	<string>iPad Pro (12.9-inch) (5th generation)</string>
+	<key>iPad13,16</key>
+	<string>iPad Air (5th generation)</string>
+	<key>iPad13,17</key>
+	<string>iPad Air (5th generation)</string>
 	<key>iPad13,2</key>
 	<string>iPad Air 4th Gen (WiFi+Cellular)</string>
+	<key>iPad13,4</key>
+	<string>iPad Pro (11-inch) (3rd generation)</string>
+	<key>iPad13,5</key>
+	<string>iPad Pro (11-inch) (3rd generation)</string>
+	<key>iPad13,6</key>
+	<string>iPad Pro (11-inch) (3rd generation)</string>
+	<key>iPad13,7</key>
+	<string>iPad Pro (11-inch) (3rd generation)</string>
+	<key>iPad13,8</key>
+	<string>iPad Pro (12.9-inch) (5th generation)</string>
+	<key>iPad13,9</key>
+	<string>iPad Pro (12.9-inch) (5th generation)</string>
+	<key>iPad14,1</key>
+	<string>iPad mini (6th generation)</string>
+	<key>iPad14,2</key>
+	<string>iPad mini (6th generation)</string>
 	<key>iPad2,1</key>
 	<string>iPad 2nd Gen</string>
 	<key>iPad2,2</key>
@@ -179,6 +217,8 @@
 	<string>iPhone 13 Mini</string>
 	<key>iPhone14,5</key>
 	<string>iPhone 13</string>
+	<key>iPhone14,6</key>
+	<string>iPhone SE (3rd generation)</string>
 	<key>iPhone14,7</key>
 	<string>iPhone 14</string>
 	<key>iPhone14,8</key>
