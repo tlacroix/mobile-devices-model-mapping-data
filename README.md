@@ -33,6 +33,6 @@ Note: All files are UTF-8 encoded
 This project is independent and has not been authorized, sponsored, or otherwise approved by Apple or Google or any other individual or company.
 
 ### Data Sources
-- iOS: https://gist.github.com/adamawolf/3048717
+- iOS: `/Applications/Xcode.app/Contents/Developer/Platforms/*.platform/usr/standalone/device_traits.db`
 - Android: https://storage.googleapis.com/play_public/supported_devices.html
 
